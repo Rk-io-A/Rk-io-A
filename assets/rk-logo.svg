@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">RK — Rajiv Kapur</title>
+  <desc id="desc">Blue and cyan RK monogram</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050912"/>
+      <stop offset="0.55" stop-color="#0b1522"/>
+      <stop offset="1" stop-color="#05070c"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="38" y1="55" x2="218" y2="205" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#087cf0"/>
+      <stop offset="0.48" stop-color="#11c9df"/>
+      <stop offset="0.78" stop-color="#b9f7ff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="47%" r="62%">
+      <stop offset="0" stop-color="#23d9ed" stop-opacity=".34"/>
+      <stop offset=".55" stop-color="#087cf0" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#087cf0" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="256" height="256" rx="54"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="256" height="256" fill="url(#bg)"/>
+    <circle cx="128" cy="122" r="126" fill="url(#glow)"/>
+    <path d="M35 58h79c34 0 55 18 55 48 0 22-12 38-33 45l37 47h-39l-42-55h25c13 0 22-8 22-21 0-12-9-20-22-20H64v96H35V58Z" fill="url(#mark)"/>
+    <path d="M116 143 199 58h36l-91 91 86 49h-45l-69-41v-14Z" fill="url(#mark)"/>
+    <path d="M133 142 203 72" fill="none" stroke="#eaffff" stroke-opacity=".45" stroke-width="2" stroke-linecap="round"/>
+    <rect x=".75" y=".75" width="254.5" height="254.5" rx="53.25" fill="none" stroke="#8eefff" stroke-opacity=".16" stroke-width="1.5"/>
+  </g>
+</svg>
