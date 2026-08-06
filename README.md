@@ -10,6 +10,7 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
   [![Product Lab](https://img.shields.io/badge/Product_Lab-rajivkapur.info-512BD4?style=for-the-badge&logo=vercel&logoColor=white)](https://rajivkapur.info)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv_Kapur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajiv7kapurk/)
+  [![Google Developer Profile](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/rajivkapurk)
   [![Email](https://img.shields.io/badge/Email-rajivkapur%40sirmint.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
 </div>
 
@@ -202,6 +203,7 @@ I am open to software engineering opportunities, technical collaborations and fu
 
 - **Portfolio:** [rajivkapur.in.net](https://rajivkapur.in.net)
 - **Product Lab:** [rajivkapur.info](https://rajivkapur.info)
+- **Google Developer Profile:** [g.dev/rajivkapurk](https://g.dev/rajivkapurk)
 - **LinkedIn:** [linkedin.com/in/rajiv7kapurk](https://www.linkedin.com/in/rajiv7kapurk/)
 - **Email:** [rajivkapur@sirmint.com](mailto:rajivkapur@sirmint.com)
 
