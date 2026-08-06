@@ -3,9 +3,9 @@
 
   # Hi, I am Rajiv Kapur 👋
 
-  ### Software Engineer | .NET, React.js & Node.js | DevOps & Cloud
+  ### Software Engineer | .NET, React.js & Node.js | DevOps, Cloud & AI/ML Learner
 
-  I build scalable web applications, secure APIs and cloud-ready software products.
+  I build scalable web applications, secure APIs and cloud-ready software products while expanding my skills in artificial intelligence and machine learning.
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
   [![Product Lab](https://img.shields.io/badge/Product_Lab-rajivkapur.info-512BD4?style=for-the-badge&logo=vercel&logoColor=white)](https://rajivkapur.info)
@@ -26,6 +26,7 @@ I work across the complete development lifecycle—from system design and fronte
 - Designing secure authentication, role-based access and database-backed applications
 - Automating builds and deployments with **GitHub Actions and Docker**
 - Deploying applications across **Cloudflare, AWS, Microsoft Azure and Vercel**
+- Currently learning **Artificial Intelligence, Machine Learning and Python-based data workflows**
 - Founder of **[Sirmint Technology](https://sirmint.com)**
 
 ---
@@ -49,6 +50,16 @@ I work across the complete development lifecycle—from system design and fronte
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### AI & Machine Learning — Currently Learning
+
+![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Learning-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Learning-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+Current learning areas include **Python for data analysis, machine learning fundamentals, data preprocessing, model training and AI-powered application development**.
 
 ### Data
 
@@ -81,6 +92,7 @@ I work across the complete development lifecycle—from system design and fronte
 | **DevOps** | Docker-based environments, GitHub Actions workflows and deployment automation |
 | **Cloud Deployment** | Cloudflare, AWS, Azure and Vercel deployments with domains, secrets and monitoring |
 | **Software Architecture** | Clean architecture, reusable modules, API contracts and scalable system design |
+| **AI/ML Learning** | Python data workflows, machine learning fundamentals and AI feature integration |
 
 ---
 
@@ -113,6 +125,8 @@ Software Engineering
 ├── PostgreSQL and database design
 ├── Docker and GitHub Actions
 ├── Cloudflare, AWS and Azure deployments
+├── AI and machine learning fundamentals
+├── Python data analysis and model-building workflows
 └── Scalable software architecture
 ```
 
@@ -127,12 +141,17 @@ Software Engineering
 - Automated testing and deployment workflows
 - Performance, accessibility and responsive design
 - Production monitoring and reliable error handling
+- Responsible and practical use of AI in software products
 
 ---
 
 ## Education & Continuous Learning
 
 - **CS50 — Harvard University**
+- Artificial intelligence and machine learning fundamentals
+- Python, NumPy, pandas, scikit-learn and Jupyter workflows
+- Data preprocessing, model training and evaluation concepts
+- AI integration for modern full-stack applications
 - Software architecture and system design
 - Advanced ASP.NET Core and Entity Framework Core
 - Docker, CI/CD and cloud-native deployment
