@@ -43,6 +43,8 @@ I am currently learning AI/ML as an extension of my full-stack and backend engin
 | **Data Analysis** | NumPy, pandas, data cleaning and visualization | Explore and prepare real datasets |
 | **Machine Learning** | Supervised learning, preprocessing and scikit-learn | Train and evaluate baseline models |
 | **Model Evaluation** | Accuracy, precision, recall, validation and error analysis | Compare models responsibly |
+| **Google Colab** | Hosted notebooks, GPU runtimes and reproducible experiments | Build and share AI/ML experiments in the cloud |
+| **Hugging Face** | Models, datasets, Transformers and inference workflows | Explore and integrate open-source AI models |
 | **AI Product Integration** | AI APIs, agents, retrieval and application workflows | Add useful AI features to software products |
 
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -50,6 +52,8 @@ I am currently learning AI/ML as an extension of my full-stack and backend engin
 ![pandas](https://img.shields.io/badge/pandas-Learning-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Learning-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-Learning-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-Learning-FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
 
 ### Learning Roadmap
 
@@ -57,9 +61,11 @@ I am currently learning AI/ML as an extension of my full-stack and backend engin
 - [x] API development and cloud deployment experience
 - [ ] Python for data analysis
 - [ ] NumPy and pandas workflows
+- [ ] Google Colab notebooks and cloud-based experiments
 - [ ] Data preprocessing and exploratory analysis
 - [ ] Regression and classification fundamentals
 - [ ] Model evaluation and improvement
+- [ ] Hugging Face models, datasets and Transformers
 - [ ] AI-powered full-stack project
 
 ---
@@ -91,6 +97,13 @@ I am currently learning AI/ML as an extension of my full-stack and backend engin
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+### AI/ML Tools — Currently Learning
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ### Data, Authentication & Services
 
@@ -135,7 +148,7 @@ I am currently learning AI/ML as an extension of my full-stack and backend engin
 | **DevOps** | Docker, GitHub Actions, build validation and repeatable deployment workflows |
 | **Software Architecture** | Modular systems, API contracts, separation of concerns and maintainable codebases |
 | **Product Engineering** | Converting business ideas into deployable MVPs and product demonstrations |
-| **AI/ML Learning** | Python data workflows, machine learning foundations and AI feature integration |
+| **AI/ML Learning** | Python data workflows, Google Colab experiments, Hugging Face models and AI feature integration |
 
 ---
 
@@ -149,7 +162,8 @@ Software & Product Engineering
 ├── Docker and CI/CD workflows
 ├── Authentication and third-party integrations
 ├── Python for data analysis
-├── Machine learning fundamentals
+├── Google Colab notebooks and ML experiments
+├── Hugging Face models and datasets
 └── Practical AI features for software products
 ```
 
@@ -173,6 +187,8 @@ Software & Product Engineering
 - **CS50 — Harvard University**
 - Artificial intelligence and machine learning fundamentals
 - Python, NumPy, pandas, scikit-learn and Jupyter
+- Google Colab notebooks, hosted runtimes and reproducible experiments
+- Hugging Face models, datasets and Transformers ecosystem
 - Software architecture and system design
 - ASP.NET Core, FastAPI and backend engineering
 - Docker, CI/CD and cloud-native deployment
