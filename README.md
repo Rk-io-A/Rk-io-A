@@ -27,8 +27,6 @@ My strongest areas are:
 - Deploying applications with **Docker, GitHub Actions, AWS, Cloudflare and Vercel**
 - Designing modular, maintainable systems around clear API contracts and business requirements
 
-I am currently open to **Software Engineer, Full-Stack Developer and Backend Developer** opportunities.
-
 ---
 
 ## Featured Work
@@ -95,5 +93,5 @@ I am currently open to **Software Engineer, Full-Stack Developer and Backend Dev
 - **Email:** [rajivkapur@sirmint.com](mailto:rajivkapur@sirmint.com)
 
 <div align="center">
-  <strong>Open to software engineering opportunities and technical collaborations.</strong>
+  <strong>Building reliable software from idea to production.</strong>
 </div>
