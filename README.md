@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/rk-logo.svg" width="110" alt="Rajiv Kapur logo" />
+  <img src="./assets/rk-logo.svg" width="120" alt="Rajiv Kapur logo" />
 
-  # Hi, I am Rajiv Kapur 👋
+  # Hi, I'm Rajiv Kapur 👋
 
-  ### Software Engineer | .NET, React.js & Node.js | DevOps, Cloud & AI/ML Learner
+  ### Software Engineer · Full-Stack & API Development · Cloud & DevOps · Learning AI/ML
 
-  I build scalable web applications, secure APIs and cloud-ready software products while expanding my skills in artificial intelligence and machine learning.
+  I design and build secure web applications, backend APIs and cloud-ready digital products.
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
   [![Product Lab](https://img.shields.io/badge/Product_Lab-rajivkapur.info-512BD4?style=for-the-badge&logo=vercel&logoColor=white)](https://rajivkapur.info)
@@ -17,41 +17,33 @@
 
 ## About Me
 
-I am a software engineer focused on designing and building reliable full-stack applications with **C#, .NET, ASP.NET Core, React.js and Node.js**.
+I am a software engineer and founder of **[Sirmint Technology](https://sirmint.com)**, focused on building practical software products from frontend interface to production deployment.
 
-I work across the complete development lifecycle—from system design and frontend implementation to API development, database integration, CI/CD and cloud deployment.
+My work includes:
 
-- Building REST APIs and backend services with **ASP.NET Core and Node.js**
-- Developing responsive web interfaces with **React.js, Next.js and TypeScript**
-- Designing secure authentication, role-based access and database-backed applications
-- Automating builds and deployments with **GitHub Actions and Docker**
-- Deploying applications across **Cloudflare, AWS, Microsoft Azure and Vercel**
-- Currently learning **Artificial Intelligence, Machine Learning and Python-based data workflows**
-- Founder of **[Sirmint Technology](https://sirmint.com)**
+- Full-stack applications with **React, Next.js, TypeScript and Node.js**
+- Backend APIs with **FastAPI, ASP.NET Core and Cloudflare Workers**
+- Authentication and authorization using **Amazon Cognito and Firebase Auth**
+- Database-backed products using **PostgreSQL, Firebase, Supabase and SQL**
+- Containerized and cloud deployments with **Docker, AWS, Cloudflare and Vercel**
+- CI/CD, API integrations, payment workflows and scalable application architecture
+- Ongoing study of **Artificial Intelligence and Machine Learning**
+
+> I focus on shipping useful products while continuously strengthening software architecture, cloud engineering and AI/ML skills.
 
 ---
 
-## Core Technology Stack
+## Current AI & Machine Learning Journey
 
-### Backend Engineering
+I am currently learning AI/ML as an extension of my full-stack and backend engineering work.
 
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-
-### Frontend Engineering
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### AI & Machine Learning — Currently Learning
+| Learning Track | Current Topics | Practical Goal |
+|---|---|---|
+| **Python Foundations** | Python syntax, functions, data structures and notebooks | Write clean data-processing programs |
+| **Data Analysis** | NumPy, pandas, data cleaning and visualization | Explore and prepare real datasets |
+| **Machine Learning** | Supervised learning, preprocessing and scikit-learn | Train and evaluate baseline models |
+| **Model Evaluation** | Accuracy, precision, recall, validation and error analysis | Compare models responsibly |
+| **AI Product Integration** | AI APIs, agents, retrieval and application workflows | Add useful AI features to software products |
 
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Learning-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -59,89 +51,120 @@ I work across the complete development lifecycle—from system design and fronte
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Learning-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-Current learning areas include **Python for data analysis, machine learning fundamentals, data preprocessing, model training and AI-powered application development**.
+### Learning Roadmap
 
-### Data
+- [x] Software engineering and programming foundations
+- [x] API development and cloud deployment experience
+- [ ] Python for data analysis
+- [ ] NumPy and pandas workflows
+- [ ] Data preprocessing and exploratory analysis
+- [ ] Regression and classification fundamentals
+- [ ] Model evaluation and improvement
+- [ ] AI-powered full-stack project
+
+---
+
+## Technology Stack
+
+### Languages
+
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend & APIs
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+### Data, Authentication & Services
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-### DevOps & Cloud
+### Cloud & DevOps
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## Selected Product Work
+
+| Product | What It Demonstrates | Technology | Link |
+|---|---|---|---|
+| **Sirmint Technology** | Multi-product technology platform, shared APIs, authentication and cloud deployment | Next.js, React, FastAPI, Cognito, Docker, AWS | [sirmint.com](https://sirmint.com) |
+| **RK Product Lab** | SaaS, CRM, project management, finance and ecommerce product demonstrations | Next.js, React, TypeScript | [rajivkapur.info](https://rajivkapur.info) |
+| **Personal Portfolio** | Professional portfolio, project presentation and Cloudflare deployment | React, TypeScript, Vite, Wrangler | [rajivkapur.in.net](https://rajivkapur.in.net) |
+| **DealNavo** | Ecommerce and print-on-demand architecture with authentication, payments and fulfillment integrations | React, Firebase, Cloudflare Workers, PayPal APIs | [dealnavo.info](https://dealnavo.info) |
+
+> Most production product repositories are private. Public case studies and working demonstrations are available through the links above.
 
 ---
 
 ## Engineering Capabilities
 
-| Area | What I Build |
+| Area | Capabilities |
 |---|---|
-| **.NET Development** | ASP.NET Core Web APIs, authentication, Entity Framework Core and modular backend services |
-| **Full-Stack Development** | React and Next.js applications connected to .NET or Node.js APIs |
-| **API Engineering** | REST APIs, validation, integrations, error handling and secure access control |
-| **Database Development** | Relational data models, PostgreSQL, SQL queries, migrations and indexing |
-| **DevOps** | Docker-based environments, GitHub Actions workflows and deployment automation |
-| **Cloud Deployment** | Cloudflare, AWS, Azure and Vercel deployments with domains, secrets and monitoring |
-| **Software Architecture** | Clean architecture, reusable modules, API contracts and scalable system design |
-| **AI/ML Learning** | Python data workflows, machine learning fundamentals and AI feature integration |
-
----
-
-## Featured Work
-
-| Project | Engineering Focus | Link |
-|---|---|---|
-| **RK Product Lab** | Full-stack SaaS, CRM, project management, finance and ecommerce product demos | [Explore projects](https://rajivkapur.info) |
-| **Personal Technology Portfolio** | React, TypeScript, API integrations and Cloudflare deployment | [Visit portfolio](https://rajivkapur.in.net) |
-| **Sirmint Technology** | Technology platform for cloud, software, AI and business products | [Visit Sirmint](https://sirmint.com) |
-
-### Product Lab Applications
-
-- **ClientFlow** — CRM for contacts, companies, deals, tasks and analytics
-- **TaskPilot** — Project management and Kanban workflows
-- **Finora** — Finance dashboard, budgets, transactions and reports
-- **CommerceAPI** — Product, inventory, cart and order workflows
-- **Nexora** — SaaS lead capture and conversion analytics
-- **StartupKit** — Website builder and saved project workflow
+| **Full-Stack Engineering** | Responsive interfaces, application state, APIs, authentication and database integration |
+| **Backend Development** | REST APIs, validation, JWT-based security, service integrations and error handling |
+| **Cloud Architecture** | Cloudflare Workers, AWS services, container deployment, environment configuration and domains |
+| **DevOps** | Docker, GitHub Actions, build validation and repeatable deployment workflows |
+| **Software Architecture** | Modular systems, API contracts, separation of concerns and maintainable codebases |
+| **Product Engineering** | Converting business ideas into deployable MVPs and product demonstrations |
+| **AI/ML Learning** | Python data workflows, machine learning foundations and AI feature integration |
 
 ---
 
 ## Current Focus
 
 ```text
-Software Engineering
-├── Production-ready ASP.NET Core APIs
-├── React and Next.js frontend applications
-├── Node.js backend services
-├── PostgreSQL and database design
-├── Docker and GitHub Actions
-├── Cloudflare, AWS and Azure deployments
-├── AI and machine learning fundamentals
-├── Python data analysis and model-building workflows
-└── Scalable software architecture
+Software & Product Engineering
+├── Full-stack React and Next.js applications
+├── Secure FastAPI and ASP.NET Core APIs
+├── Cloudflare Workers and AWS deployments
+├── Docker and CI/CD workflows
+├── Authentication and third-party integrations
+├── Python for data analysis
+├── Machine learning fundamentals
+└── Practical AI features for software products
 ```
 
 ---
 
 ## Engineering Principles
 
-- Clean and maintainable code
-- SOLID principles and modular architecture
-- Secure authentication and authorization
-- Clear API contracts and validation
-- Automated testing and deployment workflows
-- Performance, accessibility and responsive design
-- Production monitoring and reliable error handling
-- Responsible and practical use of AI in software products
+- Build secure and maintainable systems
+- Prefer clear architecture over unnecessary complexity
+- Validate inputs and design predictable API contracts
+- Automate repeatable build and deployment work
+- Protect credentials and environment secrets
+- Optimize for performance, accessibility and reliability
+- Measure AI/ML results instead of relying on assumptions
+- Use AI responsibly and solve real user problems
 
 ---
 
@@ -149,24 +172,22 @@ Software Engineering
 
 - **CS50 — Harvard University**
 - Artificial intelligence and machine learning fundamentals
-- Python, NumPy, pandas, scikit-learn and Jupyter workflows
-- Data preprocessing, model training and evaluation concepts
-- AI integration for modern full-stack applications
+- Python, NumPy, pandas, scikit-learn and Jupyter
 - Software architecture and system design
-- Advanced ASP.NET Core and Entity Framework Core
+- ASP.NET Core, FastAPI and backend engineering
 - Docker, CI/CD and cloud-native deployment
-- Kubernetes fundamentals and distributed systems
+- AWS, Cloudflare and distributed systems fundamentals
 
 ---
 
-## Contact
+## Let's Connect
 
-I am open to software engineering roles, technical collaborations and full-stack product development projects.
+I am open to software engineering opportunities, technical collaborations and full-stack product development projects.
 
-- Portfolio: [rajivkapur.in.net](https://rajivkapur.in.net)
-- Product Lab: [rajivkapur.info](https://rajivkapur.info)
-- LinkedIn: [linkedin.com/in/rajiv7kapurk](https://www.linkedin.com/in/rajiv7kapurk/)
-- Email: [rajivkapur@sirmint.com](mailto:rajivkapur@sirmint.com)
+- **Portfolio:** [rajivkapur.in.net](https://rajivkapur.in.net)
+- **Product Lab:** [rajivkapur.info](https://rajivkapur.info)
+- **LinkedIn:** [linkedin.com/in/rajiv7kapurk](https://www.linkedin.com/in/rajiv7kapurk/)
+- **Email:** [rajivkapur@sirmint.com](mailto:rajivkapur@sirmint.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rk-io-A&style=flat-square&color=0A66C2" alt="GitHub profile views" />
