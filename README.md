@@ -2,7 +2,7 @@
 
 # Rajiv Kapur
 
-### Software Engineer · Software Architect · Founder, Sirmint Technology
+### Software Architect & Full Stack Developer · Founder, Sirmint Technology
 
 I design and ship production-grade web platforms, APIs, AI experiences, and digital commerce systems—from product architecture to cloud deployment.
 
@@ -17,7 +17,7 @@ I design and ship production-grade web platforms, APIs, AI experiences, and digi
 
 ## About me
 
-I'm a software engineer and founder of **[Sirmint Technology](https://sirmint.com)**. I work across full-stack engineering, software architecture, cloud infrastructure, AI integrations, and digital commerce.
+I'm a **Software Architect and Full Stack Developer**, and founder of **[Sirmint Technology](https://sirmint.com)**. I work across full-stack engineering, software architecture, cloud infrastructure, AI integrations, and digital commerce.
 
 My focus is turning ideas into reliable production systems: accessible interfaces, secure APIs, authentication, relational data, payments, third-party integrations, CI/CD, and operational foundations.
 
