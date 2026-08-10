@@ -22,11 +22,17 @@ I'm a **Software Architect and Full Stack Developer**, and founder of **[Sirmint
 I turn ideas into reliable production systems — secure APIs, accessible interfaces, authentication, data layers, payments, third-party integrations, CI/CD, and operational foundations.
 
 - Based in India · Building for global users
-- CS50, Harvard University
 - Focus: SaaS platforms, AI products, digital commerce, realtime systems & cloud architecture
 - Own delivery from system design through production deployment
 
 **Open to selective freelance & contract work** (full-stack apps, AI features, e-commerce, SaaS, landing systems).
+
+---
+
+## Education
+
+**CS50: Introduction to Computer Science** — Harvard University  
+Rigorous foundation in computer science, algorithms, data structures, web programming, and software engineering principles.
 
 ---
 
@@ -92,6 +98,7 @@ I turn ideas into reliable production systems — secure APIs, accessible interf
 
 ### Cloud & Delivery
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
