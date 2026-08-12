@@ -2,175 +2,117 @@
 
 # Rajiv Kapur
 
-### Software Engineer · C#/.NET · TypeScript/React · Cloud
+### Software Engineer · C#/.NET · React/TypeScript · Cloud · System Design
 
-I build full-stack products, backend APIs and realtime systems with an engineering-first focus on **architecture, correctness, security, testing and production readiness**.
+I build reliable backend and full-stack systems with a focus on **clear architecture, secure APIs, data design, realtime workflows and production-ready delivery**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv_Kapur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivkapurk/)
-[![Google Developer](https://img.shields.io/badge/Google_Developer-g.dev%2Frajivkapurk-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/rajivkapurk)
-[![Email](https://img.shields.io/badge/Email-rajivkapur%40sirmint.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
-
-### Core Technologies
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv_Kapur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivkapurk/)
+[![Email](https://img.shields.io/badge/Email-rajivkapur%40sirmint.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://g.dev/rajivkapurk)
 
 </div>
 
 ---
 
-## Recruiter snapshot
+## Engineering Profile
 
-```text
-Primary languages   C# · TypeScript · JavaScript · Python · SQL
-Backend             ASP.NET Core · Node.js · FastAPI · REST APIs
-Frontend            React · Next.js · TypeScript · Vite
-Data                PostgreSQL · Redis · MongoDB · Firebase · Supabase
-Realtime            SignalR · WebSockets
-Cloud & delivery    AWS · Azure · Cloudflare · Firebase · Vercel · Docker · GitHub Actions
-Engineering focus   System design · APIs · Auth · Testing · Security · Observability · CI/CD
-```
+Software engineer working across **C#, ASP.NET Core, TypeScript, React, APIs, PostgreSQL, Redis and cloud infrastructure**. I am most interested in engineering problems that involve more than UI implementation: defining service boundaries, data flows, API contracts, authorization rules, failure handling and deployment strategy.
 
-I am strongest when a problem requires more than UI work: defining boundaries, data flows, API contracts, authorization rules, failure handling and a clear path from local development to production.
+My work spans public engineering projects and live product platforms. I keep those two categories clearly separated so the code, architecture and production context can be evaluated on their own merits.
+
+## Core Stack
+
+| Area | Technologies |
+|---|---|
+| **Backend** | C# · .NET 8 · ASP.NET Core · EF Core · Node.js · FastAPI · REST APIs |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Vite · Tailwind CSS |
+| **Data & Realtime** | PostgreSQL · Redis · MongoDB · Supabase · Firebase · SignalR · WebSockets |
+| **Cloud & Delivery** | AWS · Azure · Cloudflare · Firebase · Vercel · Docker · GitHub Actions |
+| **Engineering** | System Design · Authentication · Authorization · Testing · Security · Observability · CI/CD |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-## Selected public engineering work
+## Selected Engineering Work
 
-These repositories are **engineering demonstrations**, not claims of production customer scale. They are public so the implementation and tradeoffs can be inspected directly.
-
-| Project | Engineering signal | Stack |
+| Project | What it demonstrates | Stack |
 |---|---|---|
-| **[TaskFlow](https://github.com/Rk-io-A/TaskFlow-Backend)** | Clean Architecture, JWT + refresh tokens, EF Core, PostgreSQL, Redis, SignalR-ready patterns and unit-test structure | ASP.NET Core 8 · React · PostgreSQL · Redis |
-| **[AI Job Portal](https://github.com/Rk-io-A/ai-job-portal)** | Candidate/employer role flows, JWT auth, API boundaries and optional AI integration points | Next.js · TypeScript · FastAPI · SQLAlchemy |
-| **[Realtime Whiteboard](https://github.com/Rk-io-A/realtime-whiteboard)** | Multi-user canvas synchronization, room chat and WebSocket-based realtime collaboration | Next.js · TypeScript · FastAPI · WebSockets |
-| **[LinkShort Pro](https://github.com/Rk-io-A/LinkShort-Backend)** | Minimal API design, short-code routing and click analytics with explicit production-hardening notes | ASP.NET Core 8 Minimal API · React |
+| **[TaskFlow](https://github.com/Rk-io-A/TaskFlow-Backend)** | Clean application boundaries, JWT + refresh tokens, EF Core, PostgreSQL, Redis and testable backend structure | ASP.NET Core 8 · React · PostgreSQL · Redis |
+| **[AI Job Portal](https://github.com/Rk-io-A/ai-job-portal)** | Role-based product flows, authentication, API boundaries and AI integration points | Next.js · TypeScript · FastAPI · SQLAlchemy |
+| **[Realtime Whiteboard](https://github.com/Rk-io-A/realtime-whiteboard)** | Multi-user canvas synchronization, rooms, chat and WebSocket-based collaboration | Next.js · TypeScript · FastAPI · WebSockets |
+| **[LinkShort Pro](https://github.com/Rk-io-A/LinkShort-Backend)** | Minimal API design, redirect flow, short-code routing and analytics | ASP.NET Core 8 Minimal API · React |
 
-### Start here
+### Recommended code review starting point
 
-**TaskFlow** is the strongest public .NET architecture sample in this profile. Its backend separates API, Application, Domain and Infrastructure concerns and documents production requirements rather than pretending a demo is already production-ready.
+**[TaskFlow Backend](https://github.com/Rk-io-A/TaskFlow-Backend)** is my primary public .NET architecture sample. It separates API, Application, Domain and Infrastructure concerns and documents production-hardening requirements explicitly.
+
+> Public repositories above are engineering demonstrations. They are presented for architecture and code review, not as claims of production customer scale.
 
 ---
 
-## Production product work
+## Product Engineering
 
-I also build and operate products where the source repositories are private. Public surfaces include:
+I also work on live products whose primary repositories are private:
 
 - **[Sirmint Technology](https://sirmint.com)** — software, AI and cloud product ecosystem
-- **[Orlina](https://app.sirmint.com)** — communication / AI product work
-- **[DealNavo](https://dealnavo.com)** — commerce platform engineering
-- **[Digital Rock](https://digitalrock.online)** — digital product platform
-
-For recruiter evaluation, I keep a clear distinction between **live product work** and **public portfolio demos**.
+- **[Orlina](https://app.sirmint.com)** — AI-enabled product work
+- **[DealNavo](https://dealnavo.com)** — commerce and integration-heavy product engineering
+- **[Digital Rock](https://digitalrock.online)** — digital product platform and cloud delivery
 
 ---
 
-## Engineering principles
+## Engineering Approach
 
-- Treat authentication and authorization as separate concerns; ownership and tenant checks belong on the server.
-- Never trust browser-supplied prices, roles, payment state or privileged identifiers without server-side validation.
-- Design APIs around explicit contracts, predictable errors and idempotent operations where retries are possible.
-- Keep secrets out of client bundles and repositories; use environment and platform secret stores.
-- Add tests around business rules and failure paths, not only happy-path UI behavior.
-- Prefer observable systems: structured logs, health signals, monitoring and actionable errors.
-- Plan database migrations, rollback paths and deployment safety before calling a system production-ready.
-- Document limitations honestly so a demo is not mistaken for a production claim.
+- Design systems around **explicit boundaries, contracts and ownership**.
+- Keep **authentication, authorization and tenant/resource checks** enforced server-side.
+- Treat secrets, configuration and environment-specific behavior as deployment concerns—not source code.
+- Add tests around business rules, failure paths and security-sensitive behavior.
+- Prefer predictable APIs, observable systems and clear error handling over hidden complexity.
+- Document limitations and production requirements instead of presenting demos as finished production systems.
 
 ---
 
-## Engineering stack
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### Backend & APIs
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)
-
-### Data & realtime
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-0A0A0A?style=flat-square&logo=socketdotio&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Cloud, DevOps & delivery
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-## Current engineering focus
+## Current Focus
 
 - C# / ASP.NET Core backend engineering
-- Data structures, algorithms and problem solving
-- API and distributed-system design
+- System design and distributed application architecture
 - PostgreSQL, Redis and data-access patterns
-- Authentication, authorization and secure application architecture
-- Realtime systems with SignalR / WebSockets
-- Cloud deployment, observability and CI/CD
-- AI-enabled products where model calls are part of a controlled application architecture
+- Realtime applications with SignalR and WebSockets
+- Cloud deployment, Docker, CI/CD and observability
+- AI-enabled products with controlled application architecture around model calls
 
 ---
 
 ## Education
 
 **CS50: Introduction to Computer Science — Harvard University**  
-Foundation in algorithms, data structures, systems, web programming and software engineering.
+Algorithms · Data Structures · Systems · Web Programming · Software Engineering
 
 ---
 
-## What I am interested in
+## Open to Engineering Opportunities
 
-Software engineering opportunities where I can contribute to **backend, full-stack, platform or cloud-focused teams**, work through non-trivial technical problems and keep improving on system design and engineering depth.
+Interested in **backend, full-stack, platform and cloud-focused software engineering roles** where I can contribute to architecture, implementation and production delivery.
 
-Based in India · Open to global engineering teams.
-
----
+**Based in India · Open to global and remote engineering teams**
 
 <div align="center">
 
-**Portfolio:** [rajivkapur.in.net](https://rajivkapur.in.net) · **LinkedIn:** [rajivkapurk](https://www.linkedin.com/in/rajivkapurk/) · **Email:** [rajivkapur@sirmint.com](mailto:rajivkapur@sirmint.com)
+### Connect
 
-### Build clearly. Validate assumptions. Ship reliable software.
+[Portfolio](https://rajivkapur.in.net) · [GitHub](https://github.com/Rk-io-A) · [LinkedIn](https://www.linkedin.com/in/rajivkapurk/) · [Email](mailto:rajivkapur@sirmint.com)
+
+**Build clearly. Validate assumptions. Ship reliable software.**
 
 </div>
