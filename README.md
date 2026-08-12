@@ -2,133 +2,119 @@
 
 # Rajiv Kapur
 
-### Software Architect & Full-Stack Developer · Founder, Sirmint Technology
+### Software Engineer · C#/.NET · TypeScript/React · Cloud
 
-I design and ship production-grade web platforms, APIs, SaaS systems, realtime products, AI-enabled workflows and digital commerce infrastructure — from architecture through deployment.
+I build full-stack products, backend APIs and realtime systems with an engineering-first focus on **architecture, correctness, security, testing and production readiness**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
-[![Product Lab](https://img.shields.io/badge/Product_Lab-rajivkapur.info-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://rajivkapur.info)
-[![Sirmint](https://img.shields.io/badge/Sirmint-sirmint.com-151515?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sirmint.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv_Kapur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivkapurk/)
-[![Email](https://img.shields.io/badge/Email-rajivkapur@sirmint.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-g.dev%2Frajivkapurk-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/rajivkapurk)
+[![Email](https://img.shields.io/badge/Email-rajivkapur%40sirmint.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
 
 </div>
 
 ---
 
-## About
+## Recruiter snapshot
 
-I'm a software architect and full-stack developer building products under **Sirmint Technology** while maintaining public engineering demonstrations for architecture, SaaS, realtime systems and commerce workflows.
+```text
+Primary languages   C# · TypeScript · JavaScript · Python · SQL
+Backend             ASP.NET Core · Node.js · FastAPI · REST APIs
+Frontend            React · Next.js · TypeScript · Vite
+Data                PostgreSQL · Redis · MongoDB · Firebase · Supabase
+Realtime            SignalR · WebSockets
+Cloud & delivery    AWS · Azure · Cloudflare · Firebase · Vercel · Docker · GitHub Actions
+Engineering focus   System design · APIs · Auth · Testing · Security · Observability · CI/CD
+```
 
-**What I focus on:**
-
-- Full-stack SaaS applications with clean architecture
-- Secure APIs, authentication & authorization patterns
-- Realtime messaging, collaboration and communication systems
-- AI-enabled business workflows and agent governance foundations
-- Payments, webhooks, orders and fulfilment integrations
-- Cloud-native deployment across AWS, Cloudflare, Firebase, Azure and Vercel
-
-Based in India · Building for global users.
-
----
-
-## Current Product Ecosystem
-
-| Product | Role | Core Stack |
-|---------|------|------------|
-| **[Sirmint](https://sirmint.com)** | Global technology company & venture surface | Next.js · TypeScript · Firebase Hosting |
-| **Sirmint API** | Shared backend (`api.sirmint.com`) | FastAPI · PostgreSQL · Cognito · Docker · AWS |
-| **[Orlina](https://app.sirmint.com)** | Private messaging + voice/video workspace | React · TypeScript · Firebase · Cloudflare RealtimeKit |
-| **[Sirmint Control](https://sirmint.com/control/)** | AI-agent governance & operations | Agent registry · Policies · Approvals · Audit |
-| **[DealNavo](https://dealnavo.com)** | Digital commerce platform | React/Next.js · Firebase · Cloudflare · PayPal |
-| **[DealNavo Limited Edition](https://limited-edition.dealnavo.com)** | Premium limited-edition storefront | Firebase · Supabase · PayPal · Contrado |
-| **[Digital Rock](https://digitalrock.online)** | First-party digital product store | Next.js · Cloudflare Workers · D1 · R2 · Creem |
-| **[Sirmint India](https://sirmint.in)** | India-focused technology business | Firebase Hosting + `api.sirmint.in` ecosystem |
-
-> Product repositories document their own current deployment state. A README describing a prototype or migration should not be interpreted as a claim that every optional integration is live.
+I am strongest when a problem requires more than UI work: defining boundaries, data flows, API contracts, authorization rules, failure handling and a clear path from local development to production.
 
 ---
 
-## Featured Public Projects (Portfolio)
+## Selected public engineering work
 
-These are public engineering demonstrations and architecture showcases — not production customer systems.
+These repositories are **engineering demonstrations**, not claims of production customer scale. They are public so the implementation and tradeoffs can be inspected directly.
 
-### Full-Stack Applications
+| Project | Engineering signal | Stack |
+|---|---|---|
+| **[TaskFlow](https://github.com/Rk-io-A/TaskFlow-Backend)** | Clean Architecture, JWT + refresh tokens, EF Core, PostgreSQL, Redis, SignalR-ready patterns and unit-test structure | ASP.NET Core 8 · React · PostgreSQL · Redis |
+| **[AI Job Portal](https://github.com/Rk-io-A/ai-job-portal)** | Candidate/employer role flows, JWT auth, API boundaries and optional AI integration points | Next.js · TypeScript · FastAPI · SQLAlchemy |
+| **[Realtime Whiteboard](https://github.com/Rk-io-A/realtime-whiteboard)** | Multi-user canvas synchronization, room chat and WebSocket-based realtime collaboration | Next.js · TypeScript · FastAPI · WebSockets |
+| **[LinkShort Pro](https://github.com/Rk-io-A/LinkShort-Backend)** | Minimal API design, short-code routing and click analytics with explicit production-hardening notes | ASP.NET Core 8 Minimal API · React |
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[TaskFlow](https://github.com/Rk-io-A/TaskFlow-Backend)** | Task management platform with real-time updates | ASP.NET Core 8 · React · PostgreSQL · Redis · SignalR |
-| **[ShopSphere](https://github.com/Rk-io-A/ShopSphere-Backend)** | Microservices e-commerce system | Node.js + ASP.NET · MongoDB · Redis · RabbitMQ |
-| **[ChatNova](https://github.com/Rk-io-A/ChatNova-Backend)** | Hybrid real-time chat platform | Node Socket.io + ASP.NET SignalR · MongoDB · Redis |
-| **[SaaSForge](https://github.com/Rk-io-A/SaaSForge-Backend)** | Multi-tenant project management SaaS | ASP.NET Core 8 · Hangfire · Identity · PostgreSQL |
-| **[LinkShort](https://github.com/Rk-io-A/LinkShort-Backend)** | URL shortener + analytics (serverless ready) | ASP.NET Core Minimal API · React |
-| **[DevOpsPulse](https://github.com/Rk-io-A/DevOpsPulse-Backend)** | GitHub + Azure DevOps pipeline dashboard | Node.js · React · Charts |
+### Start here
 
-### AI & Modern Web Prototypes
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[AI Job Portal](https://github.com/Rk-io-A/ai-job-portal)** | AI-powered job matching platform | Next.js · FastAPI · Tailwind |
-| **[Food Delivery Platform](https://github.com/Rk-io-A/food-delivery-platform)** | Multi-vendor food delivery (Swiggy/Zomato style) | Next.js · FastAPI |
-| **[SaaS Analytics Dashboard](https://github.com/Rk-io-A/saas-analytics-dashboard)** | Subscription analytics (MRR, Churn, Revenue) | Next.js · FastAPI |
-| **[Realtime Whiteboard](https://github.com/Rk-io-A/realtime-whiteboard)** | Collaborative whiteboard + chat (Miro-like) | Next.js · FastAPI · WebSockets |
-| **[AI Content Generator](https://github.com/Rk-io-A/ai-content-generator)** | AI content + SEO blog platform | Next.js · FastAPI |
-
-### Landing Pages & Case Studies
-
-- [casestudies](https://github.com/Rk-io-A/casestudies) — Portfolio case study showcase
-- Premium landing pages: Real Estate · Restaurant · Doctor Clinic · Fitness Gym · Beauty Salon · Lukey Chat Center
+**TaskFlow** is the strongest public .NET architecture sample in this profile. Its backend separates API, Application, Domain and Infrastructure concerns and documents production requirements rather than pretending a demo is already production-ready.
 
 ---
 
-## Product Lab
+## Production product work
 
-**[rajivkapur.info](https://rajivkapur.info)** is the working demo environment used to show product engineering patterns without presenting illustrative data as real customer activity.
+I also build and operate products where the source repositories are private. Public surfaces include:
 
-Current demonstrations include:
+- **[Sirmint Technology](https://sirmint.com)** — software, AI and cloud product ecosystem
+- **[Orlina](https://app.sirmint.com)** — communication / AI product work
+- **[DealNavo](https://dealnavo.com)** — commerce platform engineering
+- **[Digital Rock](https://digitalrock.online)** — digital product platform
 
-- **ClientFlow** — CRM
-- **TaskPilot** — Project / task workspace
-- **Finora** — Finance dashboard
-- **CommerceAPI** — Transactional commerce demo
-- **StartupKit** — Editable site builder
-- **Nexora** — SaaS conversion demo
+For recruiter evaluation, I keep a clear distinction between **live product work** and **public portfolio demos**.
 
 ---
 
-## Engineering Stack
+## Engineering principles
+
+- Treat authentication and authorization as separate concerns; ownership and tenant checks belong on the server.
+- Never trust browser-supplied prices, roles, payment state or privileged identifiers without server-side validation.
+- Design APIs around explicit contracts, predictable errors and idempotent operations where retries are possible.
+- Keep secrets out of client bundles and repositories; use environment and platform secret stores.
+- Add tests around business rules and failure paths, not only happy-path UI behavior.
+- Prefer observable systems: structured logs, health signals, monitoring and actionable errors.
+- Plan database migrations, rollback paths and deployment safety before calling a system production-ready.
+- Document limitations honestly so a demo is not mistaken for a production claim.
+
+---
+
+## Engineering stack
 
 ### Languages
-`C#` · `TypeScript` · `JavaScript` · `Python` · `SQL`
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Backend & APIs
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### Frontend
-`React` · `Next.js` · `Vite` · `Tailwind CSS` · `HTML/CSS` · `Framer Motion`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### Backend
-`ASP.NET Core` · `Node.js` · `FastAPI` · `Cloudflare Workers` · `REST APIs`
-
-### Data · Auth · Realtime
-`PostgreSQL` · `Supabase` · `Firebase` · `MongoDB` · `Redis` · `Amazon Cognito` · `JWT` · `SignalR` · `WebSockets`
-
-### Cloud & Delivery
-`AWS` · `Firebase` · `Azure` · `Cloudflare` · `Vercel` · `Docker` · `GitHub Actions`
-
-### Integrations
-`PayPal` · `Stripe` · `Razorpay` · `Creem` · `Twilio` · `Resend`
+### Cloud & delivery
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## Architecture Principles
+## Current engineering focus
 
-- Authentication is not authorization — ownership and tenant checks belong on the server
-- Prices, payments, webhooks and fulfilment events require server-side verification
-- Browser bundles must never contain service-account, AWS, payment-provider or database admin credentials
-- Public data access should be minimal and protected with RLS / security rules where applicable
-- Webhooks and order creation should be idempotent
-- Production systems need logs, monitoring, backups, safe migrations and rollback paths
-- Demo data must never be presented as real customer activity
-- Repository documentation should match the product's current domain and deployment architecture
+- C# / ASP.NET Core backend engineering
+- Data structures, algorithms and problem solving
+- API and distributed-system design
+- PostgreSQL, Redis and data-access patterns
+- Authentication, authorization and secure application architecture
+- Realtime systems with SignalR / WebSockets
+- Cloud deployment, observability and CI/CD
+- AI-enabled products where model calls are part of a controlled application architecture
 
 ---
 
@@ -139,31 +125,18 @@ Foundation in algorithms, data structures, systems, web programming and software
 
 ---
 
-## Current Focus
+## What I am interested in
 
-- Sirmint product architecture and platform consolidation
-- Sirmint Control AI-agent governance foundation
-- Orlina communication product
-- Secure commerce and digital-delivery systems
-- ASP.NET Core and distributed backend patterns
-- Production-safe Firebase, Supabase and Cloudflare architecture
-- Selective freelance and contract engineering work
+Software engineering opportunities where I can contribute to **backend, full-stack, platform or cloud-focused teams**, work through non-trivial technical problems and keep improving on system design and engineering depth.
+
+Based in India · Open to global engineering teams.
 
 ---
 
-## Connect
-
-| Channel | Link |
-|---------|------|
-| Portfolio | [rajivkapur.in.net](https://rajivkapur.in.net) |
-| Product Lab | [rajivkapur.info](https://rajivkapur.info) |
-| Company | [sirmint.com](https://sirmint.com) |
-| LinkedIn | [linkedin.com/in/rajivkapurk](https://www.linkedin.com/in/rajivkapurk/) |
-| Google Developer | [g.dev/rajivkapurk](https://g.dev/rajivkapurk) |
-| Email | [rajivkapur@sirmint.com](mailto:rajivkapur@sirmint.com) |
-
 <div align="center">
 
-### Building reliable software from architecture to production.
+**Portfolio:** [rajivkapur.in.net](https://rajivkapur.in.net) · **LinkedIn:** [rajivkapurk](https://www.linkedin.com/in/rajivkapurk/) · **Email:** [rajivkapur@sirmint.com](mailto:rajivkapur@sirmint.com)
+
+### Build clearly. Validate assumptions. Ship reliable software.
 
 </div>
