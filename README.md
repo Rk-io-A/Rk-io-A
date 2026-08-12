@@ -2,148 +2,140 @@
 
 # Rajiv Kapur
 
-### Software Architect & Full Stack Developer · Founder, Sirmint Technology
+### Software Architect & Full-Stack Developer · Founder, Sirmint Technology
 
-I design and ship **production-grade** web platforms, APIs, AI experiences, and digital commerce systems — from architecture to cloud deployment.
+I design and ship web platforms, APIs, SaaS systems, realtime products, AI-enabled workflows and digital commerce infrastructure — from architecture through deployment.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
-[![Case Studies](https://img.shields.io/badge/Case_Studies-casestudies.rajivkapur.in.net-0A66C2?style=for-the-badge&logo=github&logoColor=white)](http://casestudies.rajivkapur.in.net/)
-[![Sirmint](https://img.shields.io/badge/Sirmint-sirmint.com-151515?style=for-the-badge&logo=vercel&logoColor=white)](https://sirmint.com)
+[![Product Lab](https://img.shields.io/badge/Product_Lab-rajivkapur.info-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://rajivkapur.info)
+[![Sirmint](https://img.shields.io/badge/Sirmint-sirmint.com-151515?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sirmint.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv_Kapur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivkapurk/)
-[![Email](https://img.shields.io/badge/Email-rajivkapur%40sirmint.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I'm a **Software Architect and Full Stack Developer**, and founder of **[Sirmint Technology](https://sirmint.com)**.  
-I turn ideas into reliable production systems — secure APIs, accessible interfaces, authentication, data layers, payments, third-party integrations, CI/CD, and operational foundations.
+I'm a software architect and full-stack developer building products under **Sirmint Technology** and maintaining public engineering demonstrations for architecture, SaaS, realtime systems and commerce workflows.
 
-- Based in India · Building for global users
-- Focus: SaaS platforms, AI products, digital commerce, realtime systems & cloud architecture
-- Own delivery from system design through production deployment
+My work spans:
 
-**Open to selective freelance & contract work** (full-stack apps, AI features, e-commerce, SaaS, landing systems).
+- full-stack SaaS applications;
+- secure APIs and authentication;
+- realtime messaging and communication;
+- AI-enabled business workflows and governance foundations;
+- payments, webhooks, orders and fulfilment integrations;
+- cloud deployment across AWS, Cloudflare, Firebase, Azure and Vercel.
 
----
-
-## Education
-
-**CS50: Introduction to Computer Science** — Harvard University  
-Rigorous foundation in computer science, algorithms, data structures, web programming, and software engineering principles.
+Based in India and building for global users.
 
 ---
 
-## Selected production work
+## Current product ecosystem
 
-| Product | What I built | Core technology |
+| Product | Role | Core technology |
 |---|---|---|
-| **[Sirmint](https://sirmint.com)** | Technology platform & venture ecosystem | Next.js, TypeScript, FastAPI, Cognito, AWS |
-| **[Orlina AI](https://app.sirmint.com)** | AI workspace & conversational product | Next.js, AI integrations, cloud delivery |
-| **[DealNavo](https://dealnavo.com)** | Global fashion-commerce platform | React, APIs, payments, cloud infrastructure |
-| **[DealNavo Limited Edition](https://limited-edition.dealnavo.com)** | Premium limited-release storefront + fulfilment sync | Firebase, Supabase, Edge Functions, PayPal, Contrado |
-| **[DigitalRock](https://digitalrock.online)** | Digital-product storefront & delivery | TypeScript, storefront APIs |
-| **[Portfolio & Case Studies](https://rajivkapur.in.net)** | Engineering portfolio + live demos | React, Vite, Cloudflare |
+| **[Sirmint](https://sirmint.com)** | Global technology company and venture surface | Next.js, TypeScript, Firebase Hosting |
+| **Sirmint API** | Shared backend on `api.sirmint.com` | FastAPI, PostgreSQL, Cognito, Docker, AWS EC2 |
+| **[Orlina](https://app.sirmint.com)** | Private messaging, voice and video communication workspace | React, TypeScript, Firebase Auth/Firestore, Cloudflare RealtimeKit |
+| **[Sirmint Control](https://sirmint.com/control/)** | AI-agent governance and operations product | Agent registry, policies, approvals, audit and usage architecture |
+| **[DealNavo](https://dealnavo.com)** | Digital commerce platform | React/Next.js, Firebase, Cloudflare APIs, PayPal, fulfilment integrations |
+| **[DealNavo Limited Edition](https://limited-edition.dealnavo.com)** | Premium limited-edition storefront | Firebase, Supabase, PayPal, Contrado integration |
+| **[Digital Rock](https://digitalrock.online)** | Sirmint first-party digital product store | Next.js, Cloudflare Workers, D1, R2, Firebase Auth, Creem |
+| **[Sirmint India](https://sirmint.in)** | India-focused technology business | Firebase Hosting + `api.sirmint.in` ecosystem |
+
+Product repositories document their own current deployment state. A README describing a prototype or migration should not be interpreted as a claim that every optional integration is live.
 
 ---
 
-## Portfolio highlights (public demos)
+## Product Lab
 
-- **[AI Job Portal](https://github.com/Rk-io-A/ai-job-portal)** — AI-powered matching, resume scoring, role-based auth (Next.js + FastAPI)
-- **[Food Delivery Platform](https://github.com/Rk-io-A/food-delivery-platform)** — Multi-vendor system (restaurants, menus, orders, delivery roles)
-- **[SaaS Analytics Dashboard](https://github.com/Rk-io-A/saas-analytics-dashboard)** — MRR, churn, revenue tracking + Stripe webhooks
-- **[Realtime Collaborative Whiteboard](https://github.com/Rk-io-A/realtime-whiteboard)** — Live multi-user canvas + chat (WebSockets)
-- **[AI Content Generator + SEO Blog](https://github.com/Rk-io-A/ai-content-generator)** — Full SEO article generation pipeline
-- Premium conversion-focused landing pages (beauty, real-estate, gym, restaurant, clinic)
+**[rajivkapur.info](https://rajivkapur.info)** is the working demo environment used to show product engineering patterns without presenting illustrative data as real customer activity.
 
-→ Full case studies: [casestudies.rajivkapur.in.net](http://casestudies.rajivkapur.in.net/)
+Current Product Lab demonstrations include:
+
+- ClientFlow CRM;
+- TaskPilot project/task workspace;
+- Finora finance dashboard;
+- CommerceAPI transactional commerce demo;
+- StartupKit editable site builder;
+- Nexora SaaS conversion demo.
+
+The public standalone repositories below are also portfolio prototypes rather than production customer systems:
+
+- AI Job Portal
+- Food Delivery Platform
+- SaaS Analytics Dashboard
+- Realtime Whiteboard
+- AI Content Generator
+- TaskFlow
+- ShopSphere
+- ChatNova
+- DevOpsPulse
+- LinkShort
+- SaaSForge
 
 ---
 
 ## Engineering stack
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+`C#` · `TypeScript` · `JavaScript` · `Python` · `SQL`
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-### Backend & APIs
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=flat-square&logo=swagger&logoColor=white)
+`React` · `Next.js` · `Vite` · `Tailwind CSS` · `HTML` · `CSS`
 
-### Data, Auth & Realtime
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111111)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Amazon Cognito](https://img.shields.io/badge/Amazon_Cognito-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+### Backend
 
-### Cloud & Delivery
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+`ASP.NET Core` · `Node.js` · `FastAPI` · `Cloudflare Workers` · `REST APIs`
+
+### Data, auth and realtime
+
+`PostgreSQL` · `Supabase` · `Firebase` · `MongoDB` · `Redis` · `Amazon Cognito` · `JWT` · `SignalR` · `WebSockets`
+
+### Cloud and delivery
+
+`AWS` · `Google Cloud / Firebase` · `Azure` · `Cloudflare` · `Vercel` · `Docker` · `GitHub Actions`
 
 ### Integrations
-![PayPal](https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
 
----
-
-## What I build
-
-- **SaaS platforms** — multi-tenant foundations, secure APIs, dashboards, subscriptions & workflow automation
-- **Digital commerce** — catalogues, carts, payments, order management, provider sync & fulfilment
-- **AI products** — assistants, matching engines, content generation, safe production integrations
-- **Realtime systems** — messaging, live collaboration, notifications (WebSockets / SignalR)
-- **Cloud architecture** — serverless, containers, CI/CD, observability & production operations
+`PayPal` · `Stripe` · `Razorpay` · `Creem` · `Twilio` · `Resend`
 
 ---
 
 ## Architecture principles
 
-- Security & ownership checks belong on the server
-- Prices, payments & fulfilment events require server-side verification
-- Public data access should be minimal and protected (RLS)
-- Webhooks & order creation must be idempotent
-- Interfaces should be responsive, accessible & resilient to loading/error states
-- Production systems need monitoring, retries, logs & safe deployment paths
+- Authentication is not authorization; ownership and tenant checks belong on the server.
+- Prices, payments, webhooks and fulfilment events require server-side verification.
+- Browser bundles must never contain service-account, AWS, payment-provider or database admin credentials.
+- Public data access should be minimal and protected with RLS/security rules where applicable.
+- Webhooks and order creation should be idempotent.
+- Production systems need logs, monitoring, backups, safe migrations and rollback paths.
+- Demo data must never be presented as real customer activity.
+- Repository documentation should match the product's current domain and deployment architecture.
+
+---
+
+## Education
+
+**CS50: Introduction to Computer Science — Harvard University**
+
+Foundation in algorithms, data structures, systems, web programming and software engineering.
 
 ---
 
 ## Current focus
 
-- Production platforms under **Sirmint** and **DealNavo**
-- ASP.NET Core, distributed systems & software architecture
-- Firebase + Supabase application architecture
-- Applied AI features that solve real product workflows
-- Strong engineering case studies & reusable system patterns
-- Selective freelance engagements (Contra / direct)
+- Sirmint product architecture and platform consolidation
+- Sirmint Control AI-agent governance foundation
+- Orlina communication product
+- secure commerce and digital-delivery systems
+- ASP.NET Core and distributed backend patterns
+- production-safe Firebase, Supabase and Cloudflare architecture
+- selective freelance and contract engineering work
 
 ---
 
@@ -152,7 +144,7 @@ Rigorous foundation in computer science, algorithms, data structures, web progra
 | Channel | Link |
 |---|---|
 | Portfolio | [rajivkapur.in.net](https://rajivkapur.in.net) |
-| Case Studies | [casestudies.rajivkapur.in.net](http://casestudies.rajivkapur.in.net/) |
+| Product Lab | [rajivkapur.info](https://rajivkapur.info) |
 | Company | [sirmint.com](https://sirmint.com) |
 | LinkedIn | [linkedin.com/in/rajivkapurk](https://www.linkedin.com/in/rajivkapurk/) |
 | Google Developer | [g.dev/rajivkapurk](https://g.dev/rajivkapurk) |
@@ -160,8 +152,6 @@ Rigorous foundation in computer science, algorithms, data structures, web progra
 
 <div align="center">
 
-### Building reliable software — from idea to production.
-
-**Available for selective freelance & contract work.**
+### Building reliable software from architecture to production.
 
 </div>
