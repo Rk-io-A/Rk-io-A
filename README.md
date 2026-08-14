@@ -2,9 +2,9 @@
 
 # Rajiv Kapur
 
-### Software Engineer · C#/.NET · React/TypeScript · Cloud · System Design
+### AI/ML Engineer · Software Engineer · Applied AI · Cloud Systems
 
-I build reliable backend and full-stack systems with a focus on **clear architecture, secure APIs, data design, realtime workflows and production-ready delivery**.
+I build intelligent, production-ready applications—from data and model workflows to secure APIs, modern interfaces and cloud deployment.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv_Kapur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivkapurk/)
@@ -15,84 +15,85 @@ I build reliable backend and full-stack systems with a focus on **clear architec
 
 ---
 
-## Engineering Profile
+## About Me
 
-Software engineer working across **C#, ASP.NET Core, TypeScript, React, APIs, PostgreSQL, Redis and cloud infrastructure**. I am most interested in engineering problems that involve more than UI implementation: defining service boundaries, data flows, API contracts, authorization rules, failure handling and deployment strategy.
+I am an **AI/ML Engineer and Software Engineer** focused on turning AI capabilities into useful, reliable products. My work combines **machine learning, generative AI, backend engineering, full-stack development and cloud infrastructure**.
 
-My work spans public engineering projects and live product platforms. I keep those two categories clearly separated so the code, architecture and production context can be evaluated on their own merits.
+I am particularly interested in applied AI systems: intelligent assistants, retrieval-augmented generation, automation, recommendation and prediction workflows, model-backed APIs, evaluation, security and production deployment.
 
-## Core Stack
+## AI/ML & Engineering Stack
 
 | Area | Technologies |
 |---|---|
-| **Backend** | C# · .NET 8 · ASP.NET Core · EF Core · Node.js · FastAPI · REST APIs |
-| **Frontend** | React · Next.js · TypeScript · JavaScript · Vite · Tailwind CSS |
-| **Data & Realtime** | PostgreSQL · Redis · MongoDB · Supabase · Firebase · SignalR · WebSockets |
-| **Cloud & Delivery** | AWS · Azure · Cloudflare · Firebase · Vercel · Docker · GitHub Actions |
-| **Engineering** | System Design · Authentication · Authorization · Testing · Security · Observability · CI/CD |
+| **AI & Machine Learning** | Python · Scikit-learn · PyTorch · TensorFlow · Pandas · NumPy · Jupyter |
+| **Generative AI** | LLM Applications · RAG · Embeddings · Vector Search · AI Agents · Prompt Engineering · Model Evaluation |
+| **AI Application Layer** | FastAPI · REST APIs · Hugging Face · LangChain · Structured Outputs · Realtime Workflows |
+| **Backend Engineering** | C# · .NET 8 · ASP.NET Core · Node.js · PostgreSQL · Redis · MongoDB |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
+| **Cloud & MLOps** | AWS · Azure · Cloudflare · Firebase · Docker · GitHub Actions · CI/CD · Observability |
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
-## Selected Engineering Work
+## Selected Projects
 
-| Project | What it demonstrates | Stack |
+| Project | Engineering focus | Stack |
 |---|---|---|
-| **[TaskFlow](https://github.com/Rk-io-A/TaskFlow-Backend)** | Clean application boundaries, JWT + refresh tokens, EF Core, PostgreSQL, Redis and testable backend structure | ASP.NET Core 8 · React · PostgreSQL · Redis |
-| **[AI Job Portal](https://github.com/Rk-io-A/ai-job-portal)** | Role-based product flows, authentication, API boundaries and AI integration points | Next.js · TypeScript · FastAPI · SQLAlchemy |
-| **[Realtime Whiteboard](https://github.com/Rk-io-A/realtime-whiteboard)** | Multi-user canvas synchronization, rooms, chat and WebSocket-based collaboration | Next.js · TypeScript · FastAPI · WebSockets |
-| **[LinkShort Pro](https://github.com/Rk-io-A/LinkShort-Backend)** | Minimal API design, redirect flow, short-code routing and analytics | ASP.NET Core 8 Minimal API · React |
+| **[AI Job Portal](https://github.com/Rk-io-A/ai-job-portal)** | AI-assisted job workflows, role-based access, authentication and model integration | Next.js · TypeScript · FastAPI · SQLAlchemy |
+| **[TaskFlow](https://github.com/Rk-io-A/TaskFlow-Backend)** | Clean architecture, secure APIs, JWT/refresh tokens and scalable data workflows | ASP.NET Core 8 · PostgreSQL · Redis · React |
+| **[Realtime Whiteboard](https://github.com/Rk-io-A/realtime-whiteboard)** | Multi-user synchronization, rooms, chat and realtime collaboration | Next.js · TypeScript · FastAPI · WebSockets |
+| **[LinkShort Pro](https://github.com/Rk-io-A/LinkShort-Backend)** | Minimal APIs, redirect workflows and analytics | ASP.NET Core 8 · React |
 
-### Recommended code review starting point
-
-**[TaskFlow Backend](https://github.com/Rk-io-A/TaskFlow-Backend)** is my primary public .NET architecture sample. It separates API, Application, Domain and Infrastructure concerns and documents production-hardening requirements explicitly.
-
-> Public repositories above are engineering demonstrations. They are presented for architecture and code review, not as claims of production customer scale.
+> These public repositories are engineering demonstrations intended for architecture and code review.
 
 ---
 
-## Product Engineering
+## What I Build
 
-I also work on live products whose primary repositories are private:
+- AI-powered SaaS products and intelligent assistants
+- RAG pipelines and knowledge-based applications
+- LLM and model integrations with secure application boundaries
+- Machine-learning APIs and data-driven workflows
+- Realtime, cloud-native web applications
+- Reliable backend systems with authentication, testing and observability
 
-- **[Sirmint Technology](https://sirmint.com)** — software, AI and cloud product ecosystem
-- **[Orlina](https://app.sirmint.com)** — AI-enabled product work
-- **[DealNavo](https://dealnavo.com)** — commerce and integration-heavy product engineering
-- **[Digital Rock](https://digitalrock.online)** — digital product platform and cloud delivery
+## Engineering Principles
 
----
-
-## Engineering Approach
-
-- Design systems around **explicit boundaries, contracts and ownership**.
-- Keep **authentication, authorization and tenant/resource checks** enforced server-side.
-- Treat secrets, configuration and environment-specific behavior as deployment concerns—not source code.
-- Add tests around business rules, failure paths and security-sensitive behavior.
-- Prefer predictable APIs, observable systems and clear error handling over hidden complexity.
-- Document limitations and production requirements instead of presenting demos as finished production systems.
+- Start with the user problem and measurable success criteria.
+- Treat data quality, evaluation and failure handling as core AI engineering work.
+- Keep model calls behind secure, testable application boundaries.
+- Enforce authentication, authorization and resource ownership server-side.
+- Protect secrets and personally identifiable data throughout the system.
+- Monitor quality, latency and cost after deployment.
+- Document limitations clearly and avoid presenting prototypes as production systems.
 
 ---
 
 ## Current Focus
 
-- C# / ASP.NET Core backend engineering
-- System design and distributed application architecture
-- PostgreSQL, Redis and data-access patterns
-- Realtime applications with SignalR and WebSockets
-- Cloud deployment, Docker, CI/CD and observability
-- AI-enabled products with controlled application architecture around model calls
+- Applied machine learning and generative AI
+- Retrieval-augmented generation and vector search
+- AI agents, tool use and workflow automation
+- Model evaluation, guardrails and observability
+- Python/FastAPI AI services
+- C#/.NET and TypeScript product engineering
+- Cloud deployment, Docker and CI/CD
 
----
+## Product Work
+
+- **[Sirmint Technology](https://sirmint.com)** — AI, software and cloud product ecosystem
+- **[DealNavo](https://dealnavo.com)** — commerce and integration-focused product engineering
+- **[Digital Rock](https://digitalrock.online)** — digital products and cloud delivery
 
 ## Education
 
@@ -101,11 +102,11 @@ Algorithms · Data Structures · Systems · Web Programming · Software Engineer
 
 ---
 
-## Open to Engineering Opportunities
+## Open to Opportunities
 
-Interested in **backend, full-stack, platform and cloud-focused software engineering roles** where I can contribute to architecture, implementation and production delivery.
+Interested in **AI/ML engineering, applied AI, backend, full-stack and cloud engineering roles** where I can contribute from prototype and evaluation through production delivery.
 
-**Based in India · Open to global and remote engineering teams**
+**Based in India · Open to global and remote teams**
 
 <div align="center">
 
@@ -113,6 +114,6 @@ Interested in **backend, full-stack, platform and cloud-focused software enginee
 
 [Portfolio](https://rajivkapur.in.net) · [GitHub](https://github.com/Rk-io-A) · [LinkedIn](https://www.linkedin.com/in/rajivkapurk/) · [Email](mailto:rajivkapur@sirmint.com)
 
-**Build clearly. Validate assumptions. Ship reliable software.**
+**Build intelligent systems. Evaluate rigorously. Ship reliably.**
 
 </div>
