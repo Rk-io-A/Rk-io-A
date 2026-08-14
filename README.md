@@ -2,7 +2,7 @@
 
 # Rajiv Kapur
 
-### AI/ML Engineer · Software Engineer · Applied AI · Cloud Systems
+### Software Engineer · AI/ML · Cloud Systems
 
 I build intelligent, production-ready applications—from data and model workflows to secure APIs, modern interfaces and cloud deployment.
 
@@ -17,7 +17,7 @@ I build intelligent, production-ready applications—from data and model workflo
 
 ## About Me
 
-I am an **AI/ML Engineer and Software Engineer** focused on turning AI capabilities into useful, reliable products. My work combines **machine learning, generative AI, backend engineering, full-stack development and cloud infrastructure**.
+I am a **Software Engineer specializing in AI/ML** focused on turning AI capabilities into useful, reliable products. My work combines **machine learning, generative AI, backend engineering, full-stack development and cloud infrastructure**.
 
 I am particularly interested in applied AI systems: intelligent assistants, retrieval-augmented generation, automation, recommendation and prediction workflows, model-backed APIs, evaluation, security and production deployment.
 
@@ -104,7 +104,7 @@ Algorithms · Data Structures · Systems · Web Programming · Software Engineer
 
 ## Open to Opportunities
 
-Interested in **AI/ML engineering, applied AI, backend, full-stack and cloud engineering roles** where I can contribute from prototype and evaluation through production delivery.
+Interested in **software engineering roles focused on AI/ML, applied AI, backend, full-stack and cloud systems** where I can contribute from prototype and evaluation through production delivery.
 
 **Based in India · Open to global and remote teams**
 
