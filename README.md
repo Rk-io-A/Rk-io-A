@@ -22,7 +22,7 @@ I am a **DevOps Engineer** focused on cloud infrastructure, CI/CD, deployment au
 
 I have hands-on experience deploying and configuring workloads across **AWS, Microsoft Azure, and Alibaba Cloud**, along with Cloudflare and Firebase-based platforms.
 
-I also have full-stack engineering experience with **React, Next.js, TypeScript, Node.js, APIs, authentication, and databases**, which helps me understand the complete path from application development to production deployment and operations.
+I also have full-stack engineering experience with **React, Next.js, TypeScript, Node.js, APIs, authentication, and databases**. I can build and deploy backend APIs across **AWS, Azure, and Cloudflare environments**, which helps me understand the complete path from application development to production deployment and operations.
 
 My goal is to make software delivery **reliable, repeatable, observable, and secure**.
 
@@ -35,7 +35,7 @@ My goal is to make software delivery **reliable, repeatable, observable, and sec
 | **Platforms** | Linux · Git · GitHub |
 | **Automation** | Bash · Python |
 | **Frontend** | React · Next.js · TypeScript · JavaScript |
-| **Backend** | Node.js · TypeScript · REST APIs · Cloudflare Workers |
+| **Backend & APIs** | Node.js · TypeScript · REST APIs · Serverless · AWS · Azure · Cloudflare Workers |
 | **Data** | PostgreSQL · Redis · MongoDB |
 | **Operations** | Logging · Monitoring · Production Diagnostics · Secure Secret Handling |
 
@@ -64,6 +64,7 @@ My goal is to make software delivery **reliable, repeatable, observable, and sec
 - Deploy and configure workloads across AWS, Azure, and Alibaba Cloud
 - Design repeatable CI/CD workflows and deployment pipelines
 - Containerize applications with Docker for consistent delivery
+- Build and deploy backend APIs across AWS, Azure, and Cloudflare environments
 - Operate Linux-based cloud environments and troubleshoot production systems
 - Improve reliability through logging, monitoring, and actionable diagnostics
 - Apply secure secret handling and least-privilege operational practices
