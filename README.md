@@ -2,11 +2,11 @@
 
 # Rajiv Kapur
 
-### Multi-Cloud DevOps & Full Stack Engineer
+### DevOps Engineer
 
 **AWS · Azure · Alibaba Cloud · Docker · Linux · CI/CD · React · Node.js · TypeScript**
 
-I build, deploy, and operate cloud-native applications — from frontend and backend systems to delivery pipelines and production infrastructure.
+I build, deploy, and operate reliable cloud applications, delivery pipelines, and production infrastructure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rajivkapur.in.net-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://rajivkapur.in.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajiv_Kapur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajivkapurk/)
@@ -18,13 +18,13 @@ I build, deploy, and operate cloud-native applications — from frontend and bac
 
 ## About
 
-I am a **Multi-Cloud DevOps and Full Stack Engineer** working across cloud infrastructure, application engineering, CI/CD, automation, containerized workloads, observability, and secure production operations.
+I am a **DevOps Engineer** focused on cloud infrastructure, CI/CD, deployment automation, containerized workloads, observability, Linux operations, and secure production systems.
 
-I have hands-on experience deploying and configuring workloads across **AWS, Microsoft Azure, and Alibaba Cloud**, while also working with Cloudflare and Firebase-based platforms.
+I have hands-on experience deploying and configuring workloads across **AWS, Microsoft Azure, and Alibaba Cloud**, along with Cloudflare and Firebase-based platforms.
 
-On the application side, I build full-stack products using **React, Next.js, TypeScript, Node.js, APIs, authentication, and databases**. On the infrastructure side, I focus on repeatable deployments, Linux operations, Docker, CI/CD, cloud services, diagnostics, and reliability.
+I also have full-stack engineering experience with **React, Next.js, TypeScript, Node.js, APIs, authentication, and databases**, which helps me understand the complete path from application development to production deployment and operations.
 
-My goal is to bridge the gap between **building software** and **running it reliably in production**.
+My goal is to make software delivery **reliable, repeatable, observable, and secure**.
 
 ## Core Technology Stack
 
@@ -64,39 +64,37 @@ My goal is to bridge the gap between **building software** and **running it reli
 - Deploy and configure workloads across AWS, Azure, and Alibaba Cloud
 - Design repeatable CI/CD workflows and deployment pipelines
 - Containerize applications with Docker for consistent delivery
-- Build full-stack products with React, Next.js, Node.js, and TypeScript
-- Develop and integrate APIs, authentication, and database-backed services
 - Operate Linux-based cloud environments and troubleshoot production systems
 - Improve reliability through logging, monitoring, and actionable diagnostics
 - Apply secure secret handling and least-privilege operational practices
 - Automate repeatable engineering and deployment tasks
+- Build and support full-stack applications using React, Next.js, Node.js, and TypeScript
 
 ## Engineering Approach
 
-- Build with production operations in mind.
 - Automate repeatable work.
 - Keep deployments observable and reproducible.
 - Treat infrastructure and configuration as engineering assets.
 - Never place secrets in source control.
 - Prefer simple, maintainable systems over unnecessary complexity.
 - Use logs, health checks, and diagnostics to shorten troubleshooting cycles.
+- Build with production operations in mind.
 
 ---
 
 ## Current Focus
 
-- Multi-cloud infrastructure across AWS, Azure, and Alibaba Cloud
-- Cloud-native application deployment and operations
+- Cloud infrastructure and production operations
+- AWS, Azure, Alibaba Cloud, Cloudflare, and Firebase
 - Docker-based application delivery
 - GitHub Actions and CI/CD automation
-- Full-stack product engineering with React, Next.js, Node.js, and TypeScript
-- Production monitoring, troubleshooting, and secure operations
+- Linux administration and production troubleshooting
+- Full-stack application deployment and operations
+- Secure, reliable, and cost-aware systems
 
 ## Open to Opportunities
 
-Interested in roles including:
-
-**DevOps Engineer · Cloud Engineer · Multi-Cloud Engineer · Platform Engineer · Full Stack Engineer · Product Engineer**
+Interested in **DevOps Engineer** opportunities.
 
 **Based in India · Open to global and remote teams**
 
