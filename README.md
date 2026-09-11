@@ -34,6 +34,9 @@ Currently, I am developing **Dealnavo**, a premium fitness and lifestyle commerc
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-111827?style=flat-square)
 
 **Engineering**
@@ -76,6 +79,7 @@ A USA-focused fitness and lifestyle ecommerce platform designed as two independe
 - Secure payments and webhook processing
 - PostgreSQL schema design and authorization
 - Cloudflare edge applications
+- Firebase, Google Cloud, and AWS services
 - Fulfillment automation and observable order workflows
 - Accessible, responsive product experiences
 
