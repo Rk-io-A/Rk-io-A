@@ -17,8 +17,6 @@ I build secure, production-minded web applications with clean interfaces, reliab
 
 I am a software developer focused on modern full-stack products, ecommerce platforms, API design, and cloud-native deployments. I care about building software that is useful, maintainable, secure, and ready for real users—not just demos.
 
-Currently, I am developing **Dealnavo**, a premium fitness and lifestyle commerce platform with a React storefront, Cloudflare edge API, Supabase PostgreSQL, payment integrations, and multi-provider fulfillment.
-
 ## What I work with
 
 **Frontend**
@@ -74,22 +72,6 @@ Currently, I am developing **Dealnavo**, a premium fitness and lifestyle commerc
 ![System Design](https://img.shields.io/badge/System_Design-334155?style=flat-square)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-## Featured work
-
-### Dealnavo Commerce
-
-A USA-focused fitness and lifestyle ecommerce platform designed as two independently deployable applications:
-
-- Premium mobile-first React and TypeScript storefront
-- Versioned REST API on Cloudflare Workers
-- Supabase Auth, PostgreSQL, relational commerce schema, and Row Level Security
-- Server-authoritative pricing and checkout architecture
-- PayPal payment-provider abstraction
-- Printful and JetPrint fulfillment adapters
-- Mixed-provider orders represented as one customer order with separate fulfillments
-- Automated checks with TypeScript, ESLint, Vitest, and GitHub Actions
-
-> The project repositories are currently private while the platform is under active development.
 
 ## How I build
 
