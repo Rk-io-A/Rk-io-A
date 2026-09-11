@@ -39,6 +39,21 @@ Currently, I am developing **Dealnavo**, a premium fitness and lifestyle commerc
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-111827?style=flat-square)
 
+**AI/ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-0F766E?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-111827?style=flat-square)
+
 **Engineering**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -75,6 +90,8 @@ A USA-focused fitness and lifestyle ecommerce platform designed as two independe
 
 ## Current focus
 
+- Applied AI, machine learning, and LLM-powered applications
+- RAG pipelines, model evaluation, and MLOps
 - Production ecommerce architecture
 - Secure payments and webhook processing
 - PostgreSQL schema design and authorization
