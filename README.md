@@ -2,7 +2,7 @@
 
 # Rajiv Kapur
 
-### Software Developer · Full-Stack & Commerce Systems
+### Software Engineer, AI/ML
 
 I build secure, production-minded web applications with clean interfaces, reliable APIs, and scalable data models.
 
