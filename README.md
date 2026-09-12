@@ -4,7 +4,9 @@
 
 ### Solutions Architect Associate
 
-[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Preparing-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![AWS SAA](https://img.shields.io/badge/Solutions_Architect_Associate-Preparing-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rk--io--A-181717?style=flat-square&logo=github)](https://github.com/Rk-io-A)
 [![Email](https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
 
@@ -14,26 +16,36 @@
 
 ## About Me
 
-I am transitioning into cloud architecture with a focus on the **AWS Solutions Architect Associate (SAA-C03)** path. I bring **7 years of customer-facing retail and service experience**, where I developed strong communication, problem-solving, issue-resolution, and business-awareness skills.
+I am building my career in cloud architecture with hands-on knowledge across **AWS, Microsoft Azure, and Google Cloud**. I bring **7 years of customer-facing retail and service experience**, where I developed strong communication, problem-solving, issue-resolution, and business-awareness skills.
 
-Alongside my cloud learning, I have worked on full-stack commerce projects involving frontend applications, APIs, relational data, authentication, security controls, payments, deployment documentation, and production-minded architecture decisions.
+Alongside cloud platforms, I have worked on full-stack commerce projects involving frontend applications, APIs, relational data, authentication, security controls, payments, deployment documentation, and production-minded architecture decisions.
 
-My goal is to combine **customer understanding + technical architecture** to design solutions that are secure, reliable, scalable, cost-aware, and practical for real business needs.
+My goal is to combine **customer understanding + multi-cloud architecture** to design solutions that are secure, reliable, scalable, cost-aware, and practical for real business needs.
 
-## AWS Learning Focus
+## Cloud Platform Skills
 
-I am currently building knowledge and hands-on practice around:
+### AWS
+- Amazon EC2, Auto Scaling, Elastic Load Balancing, Lambda
+- S3, EBS, EFS, lifecycle and storage concepts
+- VPC, subnets, route tables, Internet/NAT gateways, security groups, Route 53
+- RDS, Aurora, DynamoDB
+- IAM, KMS, CloudWatch, high availability and disaster recovery concepts
 
-- **Compute:** Amazon EC2, Auto Scaling, Elastic Load Balancing, AWS Lambda
-- **Storage:** Amazon S3, EBS, EFS, storage classes and lifecycle concepts
-- **Networking:** Amazon VPC, public/private subnets, route tables, Internet/NAT gateways, security groups, Route 53
-- **Databases:** Amazon RDS, Aurora, DynamoDB and database-selection trade-offs
-- **Security:** IAM users, roles and policies, least privilege, encryption and KMS fundamentals
-- **Reliability:** Multi-AZ design, backups, fault tolerance and disaster-recovery concepts
-- **Observability:** Amazon CloudWatch, logging and monitoring fundamentals
-- **Architecture:** AWS Well-Architected principles, scalability, availability, performance and cost optimization
+### Microsoft Azure
+- Virtual Machines and App Service fundamentals
+- Azure Storage and managed database concepts
+- Virtual Network, subnets, NSG and load-balancing concepts
+- Microsoft Entra ID / identity and access fundamentals
+- Azure Monitor and cloud security fundamentals
 
-> **Certification status:** Preparing for AWS Certified Solutions Architect – Associate. I do not claim the certification until it is earned.
+### Google Cloud
+- Compute Engine and serverless compute concepts
+- Cloud Storage and managed database concepts
+- VPC networking, firewall rules and load-balancing concepts
+- IAM and service-account fundamentals
+- Cloud Monitoring and architecture fundamentals
+
+> **Certification status:** Preparing for Solutions Architect Associate. I do not claim the certification until it is earned.
 
 ## Hands-on Engineering Experience
 
@@ -67,7 +79,7 @@ React · TypeScript · Node.js · REST APIs · Cloudflare Workers
 PostgreSQL · Supabase · Row Level Security · Authentication
 
 **Cloud & Architecture**  
-AWS (learning path) · Cloudflare · Google Cloud exposure · System Design · API Security
+AWS · Microsoft Azure · Google Cloud · Cloudflare · System Design · API Security
 
 **Engineering Practices**  
 Git · GitHub · Testing · CI/CD concepts · Deployment documentation · Secure configuration
@@ -86,21 +98,21 @@ When I design or review a solution, I try to ask:
 ## Current Roadmap
 
 - [ ] Strengthen networking, Linux and cloud fundamentals
-- [ ] Build AWS VPC + EC2 + Load Balancer lab
-- [ ] Build S3 static-site and lifecycle-policy lab
-- [ ] Build highly available web architecture with RDS Multi-AZ
-- [ ] Practice IAM least-privilege policies
-- [ ] Add CloudWatch monitoring and alerting labs
-- [ ] Build a serverless API using Lambda + API Gateway + DynamoDB
+- [ ] Build VPC/VNet architecture labs across cloud platforms
+- [ ] Build compute + load-balancing architecture lab
+- [ ] Build highly available web architecture with managed databases
+- [ ] Practice least-privilege IAM and identity design
+- [ ] Add monitoring and alerting labs
+- [ ] Build a serverless API architecture
 - [ ] Document architecture diagrams and trade-offs on GitHub
-- [ ] Complete AWS SAA-C03 practice exams
-- [ ] Earn AWS Certified Solutions Architect – Associate
+- [ ] Complete Solutions Architect Associate practice exams
+- [ ] Earn Solutions Architect Associate certification
 
 ## Career Direction
 
 I am working toward opportunities such as:
 
-**Cloud Support Associate · Junior Cloud Engineer · AWS Cloud Operations · Solutions Architect Associate-track roles**
+**Cloud Support Associate · Junior Cloud Engineer · Cloud Operations · Solutions Architect Associate-track roles · Multi-Cloud Support roles**
 
 I am especially interested in roles where I can use both **technical problem solving and strong customer communication**.
 
@@ -112,5 +124,5 @@ I am especially interested in roles where I can use both **technical problem sol
 ---
 
 <div align="center">
-  <sub>Learning cloud architecture by building, documenting, and improving real systems.</sub>
+  <sub>Building cloud architecture skills across AWS, Azure, and Google Cloud.</sub>
 </div>
