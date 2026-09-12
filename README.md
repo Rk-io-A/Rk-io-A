@@ -11,7 +11,7 @@ I build secure, maintainable, cloud-ready .NET applications and APIs with a stro
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![GitHub](https://img.shields.io/badge/GitHub-Rk--io--A-181717?style=flat-square&logo=github)](https://github.com/Rk-io-A)
-[![Email](https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
+[![Email](https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:rajivkapur@myyahoo.com)
 
 </div>
 
@@ -106,7 +106,7 @@ If you need help building or improving a .NET application or API, feel free to r
 ## Let’s Connect
 
 - GitHub: [@Rk-io-A](https://github.com/Rk-io-A)
-- Email: [rajivkapur@sirmint.com](mailto:rajivkapur@sirmint.com)
+- Email: [rajivkapur@myyahoo.com](mailto:rajivkapur@myyahoo.com)
 
 ---
 
