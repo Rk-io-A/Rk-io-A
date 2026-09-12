@@ -2,11 +2,16 @@
 
 # Rajiv Kapur
 
-### Solutions Architect Associate
+### Full-Stack Developer | React, Next.js, Node.js, Firebase, AWS & Cloudflare
 
-[![AWS SAA](https://img.shields.io/badge/Solutions_Architect_Associate-Preparing-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+I build production-minded web applications, APIs, ecommerce systems, and cloud-backed products with a focus on performance, security, maintainability, and reliable deployment.
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rk--io--A-181717?style=flat-square&logo=github)](https://github.com/Rk-io-A)
 [![Email](https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:rajivkapur@sirmint.com)
 
@@ -16,105 +21,99 @@
 
 ## About Me
 
-I am building my career in cloud architecture with hands-on knowledge across **AWS, Microsoft Azure, and Google Cloud**. I bring **7 years of customer-facing retail and service experience**, where I developed strong communication, problem-solving, issue-resolution, and business-awareness skills.
+I’m a full-stack developer focused on turning product ideas into reliable, user-friendly web applications.
 
-Alongside cloud platforms, I have worked on full-stack commerce projects involving frontend applications, APIs, relational data, authentication, security controls, payments, deployment documentation, and production-minded architecture decisions.
+I work across the complete application lifecycle: responsive frontend interfaces, backend APIs, authentication, relational data, integrations, cloud deployment, security controls, and production documentation.
 
-My goal is to combine **customer understanding + multi-cloud architecture** to design solutions that are secure, reliable, scalable, cost-aware, and practical for real business needs.
+My customer-facing background also helps me translate business requirements into practical technical solutions and communicate clearly with non-technical stakeholders.
 
-## Cloud Platform Skills
+## What I Build
 
-### AWS
-- Amazon EC2, Auto Scaling, Elastic Load Balancing, Lambda
-- S3, EBS, EFS, lifecycle and storage concepts
-- VPC, subnets, route tables, Internet/NAT gateways, security groups, Route 53
-- RDS, Aurora, DynamoDB
-- IAM, KMS, CloudWatch, high availability and disaster recovery concepts
+- SaaS products and startup MVPs
+- Ecommerce storefronts and commerce APIs
+- Responsive React / Next.js applications
+- Node.js and serverless REST APIs
+- Authentication and role-based application flows
+- Database-backed dashboards and account portals
+- Payment, webhook, and third-party API integrations
+- AWS and Cloudflare deployment architectures
+- Performance, security, and reliability improvements
 
-### Microsoft Azure
-- Virtual Machines and App Service fundamentals
-- Azure Storage and managed database concepts
-- Virtual Network, subnets, NSG and load-balancing concepts
-- Microsoft Entra ID / identity and access fundamentals
-- Azure Monitor and cloud security fundamentals
+## Core Stack
 
-### Google Cloud
-- Compute Engine and serverless compute concepts
-- Cloud Storage and managed database concepts
-- VPC networking, firewall rules and load-balancing concepts
-- IAM and service-account fundamentals
-- Cloud Monitoring and architecture fundamentals
+### Frontend
+React · Next.js · TypeScript · JavaScript · React Router · Tailwind CSS · Responsive UI
 
-> **Certification status:** Preparing for Solutions Architect Associate. I do not claim the certification until it is earned.
+### Backend & APIs
+Node.js · REST APIs · Cloudflare Workers · Hono · Serverless architecture · Webhooks
 
-## Hands-on Engineering Experience
+### Data & Authentication
+PostgreSQL · Supabase · Firebase · Authentication · Row Level Security · Relational data modeling
 
-### Dealnavo Commerce Platform — Private Project
+### Cloud & Deployment
+AWS · Cloudflare · R2 · DNS/CDN concepts · CI/CD concepts · Secure configuration · Monitoring fundamentals
 
-A production-minded ecommerce system designed as separate frontend and API layers.
+### Engineering
+Git · GitHub · Testing · API security · System design · Deployment documentation · Production-minded architecture
+
+## Featured Project
+
+### Dealnavo Commerce Platform — Private Full-Stack Project
+
+A production-minded ecommerce platform built as separate frontend and API layers.
 
 **Frontend**
 - React + TypeScript storefront
-- React Router and Tailwind CSS
+- Mobile-first responsive experience
+- Product browsing, search, filtering, variants, wishlist, and cart flows
 - Supabase authentication
-- API-authoritative pricing and checkout flow
-- Customer account, order and shipment views
+- Customer account, order, and shipment views
+- API-authoritative checkout flow
 
-**Backend & Architecture**
+**Backend & Cloud**
 - Cloudflare Workers REST API
-- PostgreSQL/Supabase relational data model
+- PostgreSQL / Supabase relational data model
 - Row Level Security and controlled secret handling
 - Payment and fulfillment provider integrations
-- Idempotent webhook-oriented workflows
-- Deployment, database and recovery documentation
+- Webhook-oriented workflows and idempotency controls
+- R2 media architecture
+- Deployment, database, recovery, and API documentation
 
-This project has helped me practice important architecture ideas such as **separation of concerns, trusted server boundaries, secure credential handling, provider abstraction, data authorization, operational documentation, and scalable API design**.
+**Architecture focus**
+- Trusted server boundaries
+- Separation of frontend and backend responsibilities
+- Secure credential handling
+- Data authorization
+- Provider abstraction
+- Production deployment readiness
+- Maintainable API and database design
 
-## Technical Toolkit
+## Cloud & Architecture Focus
 
-**Application & API**  
-React · TypeScript · Node.js · REST APIs · Cloudflare Workers
+I design and review applications around a few practical questions:
 
-**Data & Auth**  
-PostgreSQL · Supabase · Row Level Security · Authentication
+1. **Security** — Are secrets protected and permissions kept minimal?
+2. **Reliability** — What happens when a dependency or request fails?
+3. **Scalability** — Can the system grow without creating avoidable bottlenecks?
+4. **Performance** — Where should caching, compute, storage, or database access be optimized?
+5. **Cost** — Is the infrastructure appropriate for the actual workload?
+6. **Operations** — Can the application be monitored, maintained, recovered, and deployed clearly?
 
-**Cloud & Architecture**  
-AWS · Microsoft Azure · Google Cloud · Cloudflare · System Design · API Security
+## Currently Improving
 
-**Engineering Practices**  
-Git · GitHub · Testing · CI/CD concepts · Deployment documentation · Secure configuration
+- Next.js production patterns
+- AWS application architecture and deployment
+- Cloudflare Workers, CDN, DNS, and edge architecture
+- Firebase application patterns
+- Docker and CI/CD workflows
+- Observability, monitoring, and production reliability
+- Secure authentication and authorization design
 
-## Architecture Mindset
+## Open to Freelance Work
 
-When I design or review a solution, I try to ask:
+I’m available for projects involving full-stack web development, MVP development, API integrations, ecommerce systems, bug fixes, feature development, and cloud deployment work.
 
-1. **Security** — Who should have access, and what is the minimum permission required?
-2. **Reliability** — What happens if a component, zone, dependency, or request fails?
-3. **Scalability** — Can the system grow without creating a single bottleneck?
-4. **Performance** — Where should compute, storage, caching, or data access be optimized?
-5. **Cost** — Is the architecture using the right resources for the actual workload?
-6. **Operations** — Can the system be monitored, recovered, documented, and maintained clearly?
-
-## Current Roadmap
-
-- [ ] Strengthen networking, Linux and cloud fundamentals
-- [ ] Build VPC/VNet architecture labs across cloud platforms
-- [ ] Build compute + load-balancing architecture lab
-- [ ] Build highly available web architecture with managed databases
-- [ ] Practice least-privilege IAM and identity design
-- [ ] Add monitoring and alerting labs
-- [ ] Build a serverless API architecture
-- [ ] Document architecture diagrams and trade-offs on GitHub
-- [ ] Complete Solutions Architect Associate practice exams
-- [ ] Earn Solutions Architect Associate certification
-
-## Career Direction
-
-I am working toward opportunities such as:
-
-**Cloud Support Associate · Junior Cloud Engineer · Cloud Operations · Solutions Architect Associate-track roles · Multi-Cloud Support roles**
-
-I am especially interested in roles where I can use both **technical problem solving and strong customer communication**.
+If you’re building a product and need someone who can work across frontend, backend, data, and deployment, feel free to reach out.
 
 ## Let’s Connect
 
@@ -124,5 +123,5 @@ I am especially interested in roles where I can use both **technical problem sol
 ---
 
 <div align="center">
-  <sub>Building cloud architecture skills across AWS, Azure, and Google Cloud.</sub>
+  <sub>Building practical, secure, and production-ready full-stack products.</sub>
 </div>
