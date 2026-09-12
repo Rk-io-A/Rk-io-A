@@ -2,7 +2,7 @@
 
 # Rajiv Kapur
 
-### AWS Solutions Architect Associate Aspirant | Cloud Architecture | Customer-Focused Problem Solver
+### Solutions Architect Associate
 
 [![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Preparing-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rk--io--A-181717?style=flat-square&logo=github)](https://github.com/Rk-io-A)
