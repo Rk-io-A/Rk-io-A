@@ -4,8 +4,6 @@
 
 ### Software Engineer | Full-Stack & Backend Engineering
 
-**React · Next.js · Node.js · TypeScript · PostgreSQL · Supabase · Firebase · Cloudflare · AWS · Azure · Kubernetes**
-
 I build scalable web applications, backend systems, APIs, and cloud-ready platforms with a focus on clean architecture, reliable data flows, observability, and production delivery.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
