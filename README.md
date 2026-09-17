@@ -4,7 +4,7 @@
 
 ### Software Engineer | Full-Stack & Backend Engineering
 
-**React · Next.js · Node.js · TypeScript · PostgreSQL · AWS · Azure · Kubernetes**
+**React · Next.js · Node.js · TypeScript · PostgreSQL · Supabase · Firebase · Cloudflare · AWS · Azure · Kubernetes**
 
 I build scalable web applications, backend systems, APIs, and cloud-ready platforms with a focus on clean architecture, reliable data flows, observability, and production delivery.
 
@@ -12,6 +12,9 @@ I build scalable web applications, backend systems, APIs, and cloud-ready platfo
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rk--io--A-181717?style=flat-square&logo=github)](https://github.com/Rk-io-A)
@@ -23,7 +26,7 @@ I build scalable web applications, backend systems, APIs, and cloud-ready platfo
 
 ## About Me
 
-I’m a Software Engineer focused on full-stack product development, backend systems, and cloud infrastructure. I work across modern frontend applications, TypeScript-based services, relational databases, search, background workflows, observability, and containerized deployments.
+I’m a Software Engineer focused on full-stack product development, backend systems, and cloud infrastructure. I work across modern frontend applications, TypeScript-based services, relational databases, backend platforms, search, background workflows, observability, and containerized deployments.
 
 My focus is on building software that is maintainable, scalable, observable, and practical to operate in production—from user-facing interfaces to backend services and infrastructure.
 
@@ -31,9 +34,9 @@ My focus is on building software that is maintainable, scalable, observable, and
 
 - **Frontend Engineering** — React, Next.js, Tailwind CSS, shadcn, reusable UI systems, responsive application interfaces
 - **Backend & APIs** — Node.js, TypeScript, service design, REST APIs, validation, authentication, integrations, background processing
-- **Data & Search** — PostgreSQL, MySQL, relational modeling, query design, OpenSearch
+- **Data & Platform** — PostgreSQL, MySQL, Supabase, Firebase, relational modeling, query design, OpenSearch
 - **Distributed Workflows** — Temporal, asynchronous jobs, long-running workflows, event-driven application flows
-- **Infrastructure** — AWS, Azure, Kubernetes, Docker, cloud deployment, containerized services
+- **Infrastructure & Edge** — AWS, Azure, Cloudflare, Kubernetes, Docker, cloud deployment, containerized services
 - **Observability & Product Analytics** — Sentry, PostHog, Metabase, production monitoring, error tracking, product insights
 - **Engineering Workflow** — GitHub, Linear, code reviews, issue tracking, CI/CD-oriented development
 
@@ -42,8 +45,9 @@ My focus is on building software that is maintainable, scalable, observable, and
 | Area | Technologies |
 | --- | --- |
 | Frontend | React, Next.js, Tailwind, shadcn |
-| Backend | Node.js, TypeScript, MySQL, PostgreSQL, OpenSearch, Temporal |
-| Infrastructure | Azure, AWS, Kubernetes, Docker, Sentry |
+| Backend | Node.js, TypeScript, OpenSearch, Temporal |
+| Data & Platform | MySQL, PostgreSQL, Supabase, Firebase |
+| Infrastructure | Azure, AWS, Cloudflare, Kubernetes, Docker, Sentry |
 | Workflow | GitHub, Linear, PostHog, Metabase |
 
 ## How I Approach Software Engineering
@@ -60,9 +64,10 @@ My focus is on building software that is maintainable, scalable, observable, and
 - Advanced Next.js and React application architecture
 - Scalable Node.js and TypeScript backend design
 - PostgreSQL performance, indexing, and data modeling
+- Supabase and Firebase application architecture
 - OpenSearch-powered search architecture
 - Temporal workflows and durable background processing
-- Kubernetes, Docker, AWS, and Azure production deployments
+- Kubernetes, Docker, Cloudflare, AWS, and Azure production deployments
 - Observability, product analytics, automated testing, and CI/CD
 
 ## Opportunities
