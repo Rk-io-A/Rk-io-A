@@ -17,8 +17,6 @@ I build scalable web applications, backend systems, APIs, and cloud-ready platfo
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Rk--io--A-181717?style=flat-square&logo=github)](https://github.com/Rk-io-A)
-[![Email](https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:rajivkapur@myyahoo.com)
 
 </div>
 
