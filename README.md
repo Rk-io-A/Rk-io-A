@@ -2,16 +2,18 @@
 
 # Rajiv Kapur
 
-### Software Engineer | Backend & Cloud Engineering
+### Software Engineer | Full-Stack & Backend Engineering
 
-**C# · .NET · ASP.NET Core · Web API · SQL Server · Azure**
+**React · Next.js · Node.js · TypeScript · PostgreSQL · AWS · Azure · Kubernetes**
 
-I build secure, maintainable backend systems, APIs, and cloud-ready applications with a focus on clean architecture, reliable data access, integrations, and production deployment.
+I build scalable web applications, backend systems, APIs, and cloud-ready platforms with a focus on clean architecture, reliable data flows, observability, and production delivery.
 
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
 [![GitHub](https://img.shields.io/badge/GitHub-Rk--io--A-181717?style=flat-square&logo=github)](https://github.com/Rk-io-A)
 [![Email](https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:rajivkapur@myyahoo.com)
 
@@ -21,19 +23,19 @@ I build secure, maintainable backend systems, APIs, and cloud-ready applications
 
 ## About Me
 
-I’m a Software Engineer focused on backend development and cloud-ready application architecture. My primary stack is the Microsoft ecosystem—C#, .NET, ASP.NET Core, SQL Server, and Azure—with additional experience across React, TypeScript, PostgreSQL/Supabase, serverless workflows, authentication, ecommerce, and payment integrations.
+I’m a Software Engineer focused on full-stack product development, backend systems, and cloud infrastructure. I work across modern frontend applications, TypeScript-based services, relational databases, search, background workflows, observability, and containerized deployments.
 
-I care about turning business requirements into practical software that is maintainable, secure, observable, and ready to deploy.
+My focus is on building software that is maintainable, scalable, observable, and practical to operate in production—from user-facing interfaces to backend services and infrastructure.
 
 ## Engineering Focus
 
-- **Backend & APIs** — ASP.NET Core, REST APIs, DTOs, validation, async programming, middleware
-- **Data** — Entity Framework Core, SQL Server, Azure SQL, relational modeling, migrations, LINQ
-- **Security** — authentication, authorization, JWT, role-based access, protected configuration
-- **Architecture** — clean architecture, SOLID principles, separation of concerns, service/repository patterns
-- **Cloud** — Azure App Service, Functions, Blob Storage, Key Vault, Application Insights, Entra ID
-- **Delivery** — Git, GitHub, CI/CD, GitHub Actions, Azure DevOps, Docker fundamentals
-- **Integrations** — third-party APIs, payment flows, webhooks, background jobs, serverless workloads
+- **Frontend Engineering** — React, Next.js, Tailwind CSS, shadcn, reusable UI systems, responsive application interfaces
+- **Backend & APIs** — Node.js, TypeScript, service design, REST APIs, validation, authentication, integrations, background processing
+- **Data & Search** — PostgreSQL, MySQL, relational modeling, query design, OpenSearch
+- **Distributed Workflows** — Temporal, asynchronous jobs, long-running workflows, event-driven application flows
+- **Infrastructure** — AWS, Azure, Kubernetes, Docker, cloud deployment, containerized services
+- **Observability & Product Analytics** — Sentry, PostHog, Metabase, production monitoring, error tracking, product insights
+- **Engineering Workflow** — GitHub, Linear, code reviews, issue tracking, CI/CD-oriented development
 
 ## Tech Stack
 
@@ -48,30 +50,32 @@ I care about turning business requirements into practical software that is maint
 
 ### Dealnavo Commerce Platform — Private Engineering Project
 
-A commerce application with separate frontend and API layers. The project has provided hands-on experience with production-minded application architecture, secure API boundaries, relational data, authentication, third-party integrations, payment workflows, webhooks, and cloud deployment considerations.
+A full-stack commerce platform with separate frontend and backend layers, relational data, authentication, third-party integrations, payment workflows, webhooks, and cloud deployment considerations.
 
-It strengthened my understanding of how frontend clients, backend services, databases, external providers, and cloud infrastructure work together as one production system.
+The project has strengthened my understanding of production application architecture—how frontend clients, backend services, databases, external providers, asynchronous workflows, observability tools, and cloud infrastructure work together as one system.
 
 ## How I Approach Software Engineering
 
-1. **Design for maintainability** — clear boundaries, readable code, and focused responsibilities
-2. **Build secure defaults** — safe authentication, authorization, secrets, and configuration
-3. **Protect data integrity** — validation, relational modeling, and reliable migrations
-4. **Plan for failure** — useful error handling, logging, monitoring, and resilient integrations
-5. **Improve performance deliberately** — efficient queries, async I/O, and caching where appropriate
-6. **Make deployment repeatable** — CI/CD, environment-aware configuration, and observability
+1. **Design clear system boundaries** — keep frontend, backend, data, and infrastructure responsibilities understandable
+2. **Build for maintainability** — readable code, reusable components, focused services, and consistent patterns
+3. **Protect reliability and data integrity** — validation, safe integrations, resilient workflows, and deliberate database design
+4. **Make systems observable** — error tracking, monitoring, product analytics, and actionable operational signals
+5. **Scale deliberately** — efficient queries, background processing, search, containers, and infrastructure appropriate to the workload
+6. **Ship repeatably** — version control, CI/CD-oriented workflows, containerization, and production-aware configuration
 
 ## Currently Deepening
 
-- Advanced ASP.NET Core and Web API patterns
-- Entity Framework Core performance and data-access design
-- Azure App Service, Azure SQL, Functions, Key Vault, and managed identity
-- Application Insights and production monitoring
-- Docker, CI/CD, automated testing, and scalable backend architecture
+- Advanced Next.js and React application architecture
+- Scalable Node.js and TypeScript backend design
+- PostgreSQL performance, indexing, and data modeling
+- OpenSearch-powered search architecture
+- Temporal workflows and durable background processing
+- Kubernetes, Docker, AWS, and Azure production deployments
+- Observability, product analytics, automated testing, and CI/CD
 
 ## Opportunities
 
-I’m interested in **Software Engineer and Backend Engineer** opportunities where I can contribute to APIs, business applications, integrations, cloud systems, application modernization, and production engineering.
+I’m interested in **Software Engineer, Full-Stack Engineer, and Backend Engineer** opportunities where I can contribute to product development, APIs, distributed workflows, data systems, cloud infrastructure, integrations, and production engineering.
 
 ## Connect
 
@@ -81,5 +85,5 @@ I’m interested in **Software Engineer and Backend Engineer** opportunities whe
 ---
 
 <div align="center">
-  <sub>Building secure, maintainable, cloud-ready software.</sub>
+  <sub>Building reliable full-stack products and scalable backend systems.</sub>
 </div>
