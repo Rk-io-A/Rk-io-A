@@ -73,7 +73,7 @@ It strengthened my understanding of how frontend clients, backend services, data
 
 ## Opportunities
 
-I’m interested in **Software Engineer, Backend Engineer, and .NET Engineer** opportunities where I can contribute to APIs, business applications, integrations, cloud systems, application modernization, and production engineering.
+I’m interested in **Software Engineer and Backend Engineer** opportunities where I can contribute to APIs, business applications, integrations, cloud systems, application modernization, and production engineering.
 
 ## Connect
 
