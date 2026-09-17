@@ -39,12 +39,10 @@ I care about turning business requirements into practical software that is maint
 
 | Area | Technologies |
 | --- | --- |
-| Languages | C#, TypeScript, JavaScript, SQL |
-| Backend | .NET, ASP.NET Core, Web API, Entity Framework Core |
-| Frontend | React |
-| Databases | SQL Server, Azure SQL, PostgreSQL / Supabase |
-| Cloud | Microsoft Azure, Cloudflare Workers |
-| Engineering | REST, JWT, Git, GitHub, CI/CD, Docker, Testing |
+| Frontend | React, Next.js, Tailwind, shadcn |
+| Backend | Node.js, TypeScript, MySQL, PostgreSQL, OpenSearch, Temporal |
+| Infrastructure | Azure, AWS, Kubernetes, Docker, Sentry |
+| Workflow | GitHub, Linear, PostHog, Metabase |
 
 ## Selected Engineering Work
 
