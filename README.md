@@ -46,14 +46,6 @@ My focus is on building software that is maintainable, scalable, observable, and
 | Infrastructure | Azure, AWS, Kubernetes, Docker, Sentry |
 | Workflow | GitHub, Linear, PostHog, Metabase |
 
-## Selected Engineering Work
-
-### Dealnavo Commerce Platform — Private Engineering Project
-
-A full-stack commerce platform with separate frontend and backend layers, relational data, authentication, third-party integrations, payment workflows, webhooks, and cloud deployment considerations.
-
-The project has strengthened my understanding of production application architecture—how frontend clients, backend services, databases, external providers, asynchronous workflows, observability tools, and cloud infrastructure work together as one system.
-
 ## How I Approach Software Engineering
 
 1. **Design clear system boundaries** — keep frontend, backend, data, and infrastructure responsibilities understandable
